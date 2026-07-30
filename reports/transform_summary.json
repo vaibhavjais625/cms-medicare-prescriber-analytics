@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2022,
+    "input_candidate_rows": 1944541,
+    "excluded_non_drug_rows": 28970,
+    "row_count": 1915571,
+    "unmapped_rows": 0,
+    "class_row_counts": {
+      "Insulin": 529207,
+      "Biguanides": 401624,
+      "Sulfonylureas": 282931,
+      "GLP-1 receptor agonists": 224117,
+      "SGLT2 inhibitors": 204838,
+      "DPP-4 inhibitors": 182111,
+      "Thiazolidinediones": 67280,
+      "Other diabetes therapies": 14472,
+      "Fixed-ratio insulin/GLP-1": 6119,
+      "SGLT2/DPP-4 combination": 2872
+    },
+    "file": "C:\\Users\\BIT\\Documents\\Data_analyst_project1\\cms-medicare-prescriber-analytics\\data\\processed\\year=2022\\provider_drug.parquet"
+  },
+  {
+    "year": 2023,
+    "input_candidate_rows": 2116541,
+    "excluded_non_drug_rows": 26872,
+    "row_count": 2089669,
+    "unmapped_rows": 0,
+    "class_row_counts": {
+      "Insulin": 518743,
+      "Biguanides": 417672,
+      "GLP-1 receptor agonists": 343753,
+      "Sulfonylureas": 277862,
+      "SGLT2 inhibitors": 267183,
+      "DPP-4 inhibitors": 170731,
+      "Thiazolidinediones": 69078,
+      "Other diabetes therapies": 14105,
+      "Fixed-ratio insulin/GLP-1": 7485,
+      "SGLT2/DPP-4 combination": 3057
+    },
+    "file": "C:\\Users\\BIT\\Documents\\Data_analyst_project1\\cms-medicare-prescriber-analytics\\data\\processed\\year=2023\\provider_drug.parquet"
+  },
+  {
+    "year": 2024,
+    "input_candidate_rows": 2254990,
+    "excluded_non_drug_rows": 23743,
+    "row_count": 2231247,
+    "unmapped_rows": 0,
+    "class_row_counts": {
+      "Insulin": 505471,
+      "Biguanides": 434721,
+      "GLP-1 receptor agonists": 415297,
+      "SGLT2 inhibitors": 335590,
+      "Sulfonylureas": 276424,
+      "DPP-4 inhibitors": 166802,
+      "Thiazolidinediones": 71594,
+      "Other diabetes therapies": 14405,
+      "Fixed-ratio insulin/GLP-1": 7678,
+      "SGLT2/DPP-4 combination": 3265
+    },
+    "file": "C:\\Users\\BIT\\Documents\\Data_analyst_project1\\cms-medicare-prescriber-analytics\\data\\processed\\year=2024\\provider_drug.parquet"
+  }
+]

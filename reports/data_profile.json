@@ -1,0 +1,131 @@
+[
+  {
+    "year": 2022,
+    "row_count": 1944541,
+    "column_count": 22,
+    "duplicate_provider_drug_keys": 0,
+    "distinct_brand_generic_pairs": 197,
+    "null_counts": {
+      "Prscrbr_NPI": 0,
+      "Prscrbr_Last_Org_Name": 0,
+      "Prscrbr_First_Name": 0,
+      "Prscrbr_City": 0,
+      "Prscrbr_State_Abrvtn": 0,
+      "Prscrbr_State_FIPS": 0,
+      "Prscrbr_Type": 0,
+      "Prscrbr_Type_Src": 0,
+      "Brnd_Name": 0,
+      "Gnrc_Name": 0,
+      "Tot_Clms": 0,
+      "Tot_30day_Fills": 0,
+      "Tot_Day_Suply": 0,
+      "Tot_Drug_Cst": 0,
+      "Tot_Benes": 1328157,
+      "GE65_Sprsn_Flag": 1102074,
+      "GE65_Tot_Clms": 842467,
+      "GE65_Tot_30day_Fills": 842467,
+      "GE65_Tot_Drug_Cst": 842467,
+      "GE65_Tot_Day_Suply": 842467,
+      "GE65_Bene_Sprsn_Flag": 134245,
+      "GE65_Tot_Benes": 1810296
+    },
+    "numeric_min": {
+      "Tot_Clms": 11.0,
+      "Tot_30day_Fills": 11.0,
+      "Tot_Day_Suply": 11.0,
+      "Tot_Drug_Cst": 0.0
+    },
+    "numeric_max": {
+      "Tot_Clms": 3718.0,
+      "Tot_30day_Fills": 7852.0,
+      "Tot_Day_Suply": 235442.0,
+      "Tot_Drug_Cst": 4000271.19
+    }
+  },
+  {
+    "year": 2023,
+    "row_count": 2116541,
+    "column_count": 22,
+    "duplicate_provider_drug_keys": 0,
+    "distinct_brand_generic_pairs": 199,
+    "null_counts": {
+      "Prscrbr_NPI": 0,
+      "Prscrbr_Last_Org_Name": 0,
+      "Prscrbr_First_Name": 0,
+      "Prscrbr_City": 0,
+      "Prscrbr_State_Abrvtn": 0,
+      "Prscrbr_State_FIPS": 0,
+      "Prscrbr_Type": 0,
+      "Prscrbr_Type_Src": 0,
+      "Brnd_Name": 0,
+      "Gnrc_Name": 0,
+      "Tot_Clms": 0,
+      "Tot_30day_Fills": 0,
+      "Tot_Day_Suply": 0,
+      "Tot_Drug_Cst": 0,
+      "Tot_Benes": 1413504,
+      "GE65_Sprsn_Flag": 1198777,
+      "GE65_Tot_Clms": 917764,
+      "GE65_Tot_30day_Fills": 917764,
+      "GE65_Tot_Drug_Cst": 917764,
+      "GE65_Tot_Day_Suply": 917764,
+      "GE65_Bene_Sprsn_Flag": 153641,
+      "GE65_Tot_Benes": 1962900
+    },
+    "numeric_min": {
+      "Tot_Clms": 11.0,
+      "Tot_30day_Fills": 11.0,
+      "Tot_Day_Suply": 11.0,
+      "Tot_Drug_Cst": 0.0
+    },
+    "numeric_max": {
+      "Tot_Clms": 5956.0,
+      "Tot_30day_Fills": 8058.3,
+      "Tot_Day_Suply": 241581.0,
+      "Tot_Drug_Cst": 4128824.28
+    }
+  },
+  {
+    "year": 2024,
+    "row_count": 2254990,
+    "column_count": 22,
+    "duplicate_provider_drug_keys": 0,
+    "distinct_brand_generic_pairs": 188,
+    "null_counts": {
+      "Prscrbr_NPI": 0,
+      "Prscrbr_Last_Org_Name": 0,
+      "Prscrbr_First_Name": 0,
+      "Prscrbr_City": 0,
+      "Prscrbr_State_Abrvtn": 0,
+      "Prscrbr_State_FIPS": 0,
+      "Prscrbr_Type": 3,
+      "Prscrbr_Type_Src": 0,
+      "Brnd_Name": 0,
+      "Gnrc_Name": 0,
+      "Tot_Clms": 0,
+      "Tot_30day_Fills": 0,
+      "Tot_Day_Suply": 0,
+      "Tot_Drug_Cst": 0,
+      "Tot_Benes": 1456920,
+      "GE65_Sprsn_Flag": 1295398,
+      "GE65_Tot_Clms": 959592,
+      "GE65_Tot_30day_Fills": 959592,
+      "GE65_Tot_Drug_Cst": 959592,
+      "GE65_Tot_Day_Suply": 959592,
+      "GE65_Bene_Sprsn_Flag": 180103,
+      "GE65_Tot_Benes": 2074887
+    },
+    "numeric_min": {
+      "Tot_Clms": 11.0,
+      "Tot_30day_Fills": 11.0,
+      "Tot_Day_Suply": 11.0,
+      "Tot_Drug_Cst": 0.0
+    },
+    "numeric_max": {
+      "Tot_Clms": 6531.0,
+      "Tot_30day_Fills": 8669.4,
+      "Tot_Day_Suply": 259855.0,
+      "Tot_Drug_Cst": 5821520.4
+    }
+  }
+]

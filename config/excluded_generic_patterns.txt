@@ -1,0 +1,9 @@
+# Non-drug diabetes devices and supplies caught by the broad "insulin" ingredient filter.
+# Matching occurs after lower-casing and punctuation normalization.
+insulin pump
+insulin device
+syringe
+pen reusable
+insulin administration supplies
+insulin delivery device
+

@@ -1,0 +1,20 @@
+HTTP/1.1 206 Partial Content
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Content-Type: text/csv
+X-Acquia-Subscription-UUID: d15be109-6227-4efe-9952-9fefe48ff19c
+X-AH-Environment: prod
+X-Content-Type-Options: nosniff
+X-Request-ID: v-5f6ad5a4-5596-11f1-8d37-4bfeeb155a1e
+Last-Modified: Wed, 06 May 2026 17:55:19 GMT
+Expires: Thu, 30 Jul 2026 15:07:27 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 30 Jul 2026 15:07:27 GMT
+Content-Range: bytes 0-0/4057615134
+Content-Length: 1
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
+X-XSS-Protection: 1; mode=block
+Akamai-GRN: 0.8787d817.1785424047.c42e3d55
+

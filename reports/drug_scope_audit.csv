@@ -1,0 +1,585 @@
+brand_name,generic_name,year,drug_class,matched_terms,marketed_name_type,scope_status
+Cequr Simplicity,"Bolus Insulin Pump, 200 Unit",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Cequr Simplicity,"Bolus Insulin Pump, 200 Unit",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Cequr Simplicity,"Bolus Insulin Pump, 200 Unit",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Inpen (For Humalog),"Insulin Pen,reusable,bt Lispro",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Inpen (For Humalog),"Insulin Pen,reusable,bt Lispro",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Inpen (For Novolog Or Fiasp),"Insulin Pen,reusable,bt,aspart",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Inpen (For Novolog Or Fiasp),"Insulin Pen,reusable,bt,aspart",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod 5 Dexg7g6 Pods (Gen 5),"Insulin Pump Cart,auto,bt,g6/7",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod 5 G6 Intro Kit (Gen 5),"Insulin Pump Cart,auto,bt/Cntr",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod 5 G6 Intro Kit (Gen 5),"Insulin Pump Cart,auto,bt/Cntr",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod 5 G6 Pods (Gen 5),"Insulin Pump Cart,automated,bt",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod 5 G6 Pods (Gen 5),"Insulin Pump Cart,automated,bt",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod Dash Pods (Gen 4),"Insulin Pump Cart,cont Inf,bt",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod Dash Pods (Gen 4),"Insulin Pump Cart,cont Inf,bt",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod Dash Pods (Gen 4),"Insulin Pump Cart,cont Inf,bt",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod Classic Pods (Gen 3),"Insulin Pump Cart,cont Inf,rf",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod Classic Pods (Gen 3),"Insulin Pump Cart,cont Inf,rf",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Omnipod Classic Pods (Gen 3),"Insulin Pump Cart,cont Inf,rf",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 20,"Sub-Q Insulin Device, 20 Unit",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 20,"Sub-Q Insulin Device, 20 Unit",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 20,"Sub-Q Insulin Device, 20 Unit",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 30,"Sub-Q Insulin Device, 30 Unit",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 30,"Sub-Q Insulin Device, 30 Unit",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 30,"Sub-Q Insulin Device, 30 Unit",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 40,"Sub-Q Insulin Device, 40 Unit",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 40,"Sub-Q Insulin Device, 40 Unit",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+V-Go 40,"Sub-Q Insulin Device, 40 Unit",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Advocate Syringes,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Advocate Syringes,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Advocate Syringes,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Comfort Ez Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Comfort Ez Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Comfort Ez Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Droplet Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Droplet Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Droplet Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Comfort Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Comfort Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Comfort Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Glide Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Glide Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Glide Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy-Touch Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy-Touch Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy-Touch Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Elite-Thin,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Healthwise Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Healthwise Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Lite Touch,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Lite Touch,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Precision,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Techlite Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Techlite Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Techlite Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+True Comfort Pro Ins Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Trueplus Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Trueplus Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Trueplus Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra Comfort,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra Comfort,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra Comfort,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra-Thin Ii,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra-Thin Ii,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra-Thin Ii,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultracare Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultracare Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultracare Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Vanishpoint,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Vanishpoint,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Vanishpoint,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Veo Insulin Syringe,"Syringe And Needle,insulin,1ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Veo Insulin Syringe,"Syringe And Needle,insulin,1ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Veo Insulin Syringe,"Syringe And Needle,insulin,1ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Safety Syrng,"Syringe With Needle, Insulin",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Safety Syrng,"Syringe With Needle, Insulin",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Safety Syrng,"Syringe With Needle, Insulin",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe,insulin,needless 1 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe,insulin,needless 1 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Luer-Lok Syringe,"Syringe,insulin,needless 1 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Advocate Syringes,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Advocate Syringes,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Advocate Syringes,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe Ult-Fine Ii,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe Ult-Fine Ii,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe Ult-Fine Ii,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe Ultra-Fine,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe Ultra-Fine,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Bd Insulin Syringe Ultra-Fine,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Comfort Ez Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Comfort Ez Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Comfort Ez Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Comfort Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Comfort Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Comfort Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Glide Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Glide Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Glide Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Easy Touch Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Exel Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Healthwise Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Lite Touch,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Lite Touch,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Monoject Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Prodigy Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Safetyglide Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure Comfort Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure-Ject Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Sure-Ject Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Terumo Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Terumo Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+True Comfort Pro Ins Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+True Comfort Pro Ins Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Trueplus Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Trueplus Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Trueplus Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ulticare Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra Comfort,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra Comfort,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra-Thin Ii,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra-Thin Ii,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultra-Thin Ii,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultracare Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultracare Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Ultracare Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Vanishpoint,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Vanishpoint,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Vanishpoint,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Veo Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2022,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Veo Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2023,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Veo Insulin Syringe,"Syringe-Needle,insulin,0.5 Ml",2024,Excluded non-drug device/supply,insulin,not applicable,excluded_non_drug
+Dapagliflozin-Metformin Er,Dapaglifloz Propaned/Metformin,2024,Biguanides,metformin,brand-identifiable,included
+Xigduo Xr,Dapaglifloz Propaned/Metformin,2023,Biguanides,metformin,brand-identifiable,included
+Xigduo Xr,Dapaglifloz Propaned/Metformin,2024,Biguanides,metformin,brand-identifiable,included
+Trijardy Xr,Empaglifloz/Linaglip/Metformin,2022,Biguanides,metformin,brand-identifiable,included
+Trijardy Xr,Empaglifloz/Linaglip/Metformin,2023,Biguanides,metformin,brand-identifiable,included
+Trijardy Xr,Empaglifloz/Linaglip/Metformin,2024,Biguanides,metformin,brand-identifiable,included
+Glipizide-Metformin,Glipizide/Metformin Hcl,2022,Biguanides,glipizide|metformin,brand-identifiable,included
+Glipizide-Metformin,Glipizide/Metformin Hcl,2023,Biguanides,glipizide|metformin,brand-identifiable,included
+Glipizide-Metformin,Glipizide/Metformin Hcl,2024,Biguanides,glipizide|metformin,brand-identifiable,included
+Glyburide-Metformin Hcl,Glyburide/Metformin Hcl,2022,Biguanides,glyburide|metformin,generic-name listed,included
+Glyburide-Metformin Hcl,Glyburide/Metformin Hcl,2023,Biguanides,glyburide|metformin,generic-name listed,included
+Glyburide-Metformin Hcl,Glyburide/Metformin Hcl,2024,Biguanides,glyburide|metformin,generic-name listed,included
+Glumetza,Metformin Hcl,2022,Biguanides,metformin,brand-identifiable,included
+Glumetza,Metformin Hcl,2023,Biguanides,metformin,brand-identifiable,included
+Glumetza,Metformin Hcl,2024,Biguanides,metformin,brand-identifiable,included
+Metformin Er Gastric,Metformin Hcl,2022,Biguanides,metformin,brand-identifiable,included
+Metformin Er Gastric,Metformin Hcl,2023,Biguanides,metformin,brand-identifiable,included
+Metformin Er Gastric,Metformin Hcl,2024,Biguanides,metformin,brand-identifiable,included
+Metformin Er Osmotic,Metformin Hcl,2022,Biguanides,metformin,brand-identifiable,included
+Metformin Er Osmotic,Metformin Hcl,2023,Biguanides,metformin,brand-identifiable,included
+Metformin Er Osmotic,Metformin Hcl,2024,Biguanides,metformin,brand-identifiable,included
+Metformin Hcl,Metformin Hcl,2022,Biguanides,metformin,generic-name listed,included
+Metformin Hcl,Metformin Hcl,2023,Biguanides,metformin,generic-name listed,included
+Metformin Hcl,Metformin Hcl,2024,Biguanides,metformin,generic-name listed,included
+Metformin Hcl Er,Metformin Hcl,2022,Biguanides,metformin,brand-identifiable,included
+Metformin Hcl Er,Metformin Hcl,2023,Biguanides,metformin,brand-identifiable,included
+Metformin Hcl Er,Metformin Hcl,2024,Biguanides,metformin,brand-identifiable,included
+Actoplus Met,Pioglitazone Hcl/Metformin Hcl,2022,Biguanides,metformin|pioglitazone,brand-identifiable,included
+Actoplus Met,Pioglitazone Hcl/Metformin Hcl,2023,Biguanides,metformin|pioglitazone,brand-identifiable,included
+Actoplus Met,Pioglitazone Hcl/Metformin Hcl,2024,Biguanides,metformin|pioglitazone,brand-identifiable,included
+Pioglitazone-Metformin,Pioglitazone Hcl/Metformin Hcl,2022,Biguanides,metformin|pioglitazone,brand-identifiable,included
+Pioglitazone-Metformin,Pioglitazone Hcl/Metformin Hcl,2023,Biguanides,metformin|pioglitazone,brand-identifiable,included
+Pioglitazone-Metformin,Pioglitazone Hcl/Metformin Hcl,2024,Biguanides,metformin|pioglitazone,brand-identifiable,included
+Alogliptin-Metformin,Alogliptin Benz/Metformin Hcl,2022,DPP-4 inhibitors,alogliptin|metformin,brand-identifiable,included
+Alogliptin-Metformin,Alogliptin Benz/Metformin Hcl,2023,DPP-4 inhibitors,alogliptin|metformin,brand-identifiable,included
+Alogliptin-Metformin,Alogliptin Benz/Metformin Hcl,2024,DPP-4 inhibitors,alogliptin|metformin,brand-identifiable,included
+Kazano,Alogliptin Benz/Metformin Hcl,2022,DPP-4 inhibitors,alogliptin|metformin,brand-identifiable,included
+Kazano,Alogliptin Benz/Metformin Hcl,2023,DPP-4 inhibitors,alogliptin|metformin,brand-identifiable,included
+Alogliptin-Pioglitazone,Alogliptin Benz/Pioglitazone,2022,DPP-4 inhibitors,alogliptin|pioglitazone,brand-identifiable,included
+Alogliptin-Pioglitazone,Alogliptin Benz/Pioglitazone,2023,DPP-4 inhibitors,alogliptin|pioglitazone,brand-identifiable,included
+Alogliptin-Pioglitazone,Alogliptin Benz/Pioglitazone,2024,DPP-4 inhibitors,alogliptin|pioglitazone,brand-identifiable,included
+Oseni,Alogliptin Benz/Pioglitazone,2022,DPP-4 inhibitors,alogliptin|pioglitazone,brand-identifiable,included
+Oseni,Alogliptin Benz/Pioglitazone,2023,DPP-4 inhibitors,alogliptin|pioglitazone,brand-identifiable,included
+Alogliptin,Alogliptin Benzoate,2022,DPP-4 inhibitors,alogliptin,brand-identifiable,included
+Alogliptin,Alogliptin Benzoate,2023,DPP-4 inhibitors,alogliptin,brand-identifiable,included
+Alogliptin,Alogliptin Benzoate,2024,DPP-4 inhibitors,alogliptin,brand-identifiable,included
+Nesina,Alogliptin Benzoate,2022,DPP-4 inhibitors,alogliptin,brand-identifiable,included
+Nesina,Alogliptin Benzoate,2023,DPP-4 inhibitors,alogliptin,brand-identifiable,included
+Nesina,Alogliptin Benzoate,2024,DPP-4 inhibitors,alogliptin,brand-identifiable,included
+Tradjenta,Linagliptin,2022,DPP-4 inhibitors,linagliptin,brand-identifiable,included
+Tradjenta,Linagliptin,2023,DPP-4 inhibitors,linagliptin,brand-identifiable,included
+Tradjenta,Linagliptin,2024,DPP-4 inhibitors,linagliptin,brand-identifiable,included
+Jentadueto,Linagliptin/Metformin Hcl,2022,DPP-4 inhibitors,linagliptin|metformin,brand-identifiable,included
+Jentadueto,Linagliptin/Metformin Hcl,2023,DPP-4 inhibitors,linagliptin|metformin,brand-identifiable,included
+Jentadueto,Linagliptin/Metformin Hcl,2024,DPP-4 inhibitors,linagliptin|metformin,brand-identifiable,included
+Jentadueto Xr,Linagliptin/Metformin Hcl,2022,DPP-4 inhibitors,linagliptin|metformin,brand-identifiable,included
+Jentadueto Xr,Linagliptin/Metformin Hcl,2023,DPP-4 inhibitors,linagliptin|metformin,brand-identifiable,included
+Jentadueto Xr,Linagliptin/Metformin Hcl,2024,DPP-4 inhibitors,linagliptin|metformin,brand-identifiable,included
+Onglyza,Saxagliptin Hcl,2022,DPP-4 inhibitors,saxagliptin,brand-identifiable,included
+Onglyza,Saxagliptin Hcl,2023,DPP-4 inhibitors,saxagliptin,brand-identifiable,included
+Onglyza,Saxagliptin Hcl,2024,DPP-4 inhibitors,saxagliptin,brand-identifiable,included
+Saxagliptin Hcl,Saxagliptin Hcl,2023,DPP-4 inhibitors,saxagliptin,generic-name listed,included
+Saxagliptin Hcl,Saxagliptin Hcl,2024,DPP-4 inhibitors,saxagliptin,generic-name listed,included
+Kombiglyze Xr,Saxagliptin Hcl/Metformin Hcl,2022,DPP-4 inhibitors,metformin|saxagliptin,brand-identifiable,included
+Kombiglyze Xr,Saxagliptin Hcl/Metformin Hcl,2023,DPP-4 inhibitors,metformin|saxagliptin,brand-identifiable,included
+Kombiglyze Xr,Saxagliptin Hcl/Metformin Hcl,2024,DPP-4 inhibitors,metformin|saxagliptin,brand-identifiable,included
+Saxagliptin-Metformin Er,Saxagliptin Hcl/Metformin Hcl,2023,DPP-4 inhibitors,metformin|saxagliptin,brand-identifiable,included
+Saxagliptin-Metformin Er,Saxagliptin Hcl/Metformin Hcl,2024,DPP-4 inhibitors,metformin|saxagliptin,brand-identifiable,included
+Sitagliptin,Sitagliptin,2024,DPP-4 inhibitors,sitagliptin,generic-name listed,included
+Janumet,Sitagliptin Phos/Metformin Hcl,2022,DPP-4 inhibitors,metformin|sitagliptin,brand-identifiable,included
+Janumet,Sitagliptin Phos/Metformin Hcl,2023,DPP-4 inhibitors,metformin|sitagliptin,brand-identifiable,included
+Janumet,Sitagliptin Phos/Metformin Hcl,2024,DPP-4 inhibitors,metformin|sitagliptin,brand-identifiable,included
+Janumet Xr,Sitagliptin Phos/Metformin Hcl,2022,DPP-4 inhibitors,metformin|sitagliptin,brand-identifiable,included
+Janumet Xr,Sitagliptin Phos/Metformin Hcl,2023,DPP-4 inhibitors,metformin|sitagliptin,brand-identifiable,included
+Janumet Xr,Sitagliptin Phos/Metformin Hcl,2024,DPP-4 inhibitors,metformin|sitagliptin,brand-identifiable,included
+Januvia,Sitagliptin Phosphate,2022,DPP-4 inhibitors,sitagliptin,brand-identifiable,included
+Januvia,Sitagliptin Phosphate,2023,DPP-4 inhibitors,sitagliptin,brand-identifiable,included
+Januvia,Sitagliptin Phosphate,2024,DPP-4 inhibitors,sitagliptin,brand-identifiable,included
+Xultophy 100-3.6,Insulin Degludec/Liraglutide,2022,Fixed-ratio insulin/GLP-1,insulin|liraglutide,brand-identifiable,included
+Xultophy 100-3.6,Insulin Degludec/Liraglutide,2023,Fixed-ratio insulin/GLP-1,insulin|liraglutide,brand-identifiable,included
+Xultophy 100-3.6,Insulin Degludec/Liraglutide,2024,Fixed-ratio insulin/GLP-1,insulin|liraglutide,brand-identifiable,included
+Soliqua 100-33,Insulin Glargine/Lixisenatide,2022,Fixed-ratio insulin/GLP-1,insulin|lixisenatide,brand-identifiable,included
+Soliqua 100-33,Insulin Glargine/Lixisenatide,2023,Fixed-ratio insulin/GLP-1,insulin|lixisenatide,brand-identifiable,included
+Soliqua 100-33,Insulin Glargine/Lixisenatide,2024,Fixed-ratio insulin/GLP-1,insulin|lixisenatide,brand-identifiable,included
+Trulicity,Dulaglutide,2022,GLP-1 receptor agonists,dulaglutide,brand-identifiable,included
+Trulicity,Dulaglutide,2023,GLP-1 receptor agonists,dulaglutide,brand-identifiable,included
+Trulicity,Dulaglutide,2024,GLP-1 receptor agonists,dulaglutide,brand-identifiable,included
+Byetta,Exenatide,2022,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Byetta,Exenatide,2023,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Byetta,Exenatide,2024,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Bydureon Bcise,Exenatide Microspheres,2022,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Bydureon Bcise,Exenatide Microspheres,2023,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Bydureon Bcise,Exenatide Microspheres,2024,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Bydureon Pen,Exenatide Microspheres,2022,GLP-1 receptor agonists,exenatide,brand-identifiable,included
+Liraglutide,Liraglutide,2024,GLP-1 receptor agonists,liraglutide,generic-name listed,included
+Victoza 2-Pak,Liraglutide,2022,GLP-1 receptor agonists,liraglutide,brand-identifiable,included
+Victoza 2-Pak,Liraglutide,2023,GLP-1 receptor agonists,liraglutide,brand-identifiable,included
+Victoza 2-Pak,Liraglutide,2024,GLP-1 receptor agonists,liraglutide,brand-identifiable,included
+Victoza 3-Pak,Liraglutide,2022,GLP-1 receptor agonists,liraglutide,brand-identifiable,included
+Victoza 3-Pak,Liraglutide,2023,GLP-1 receptor agonists,liraglutide,brand-identifiable,included
+Victoza 3-Pak,Liraglutide,2024,GLP-1 receptor agonists,liraglutide,brand-identifiable,included
+Adlyxin,Lixisenatide,2022,GLP-1 receptor agonists,lixisenatide,brand-identifiable,included
+Ozempic,Semaglutide,2022,GLP-1 receptor agonists,semaglutide,brand-identifiable,included
+Ozempic,Semaglutide,2023,GLP-1 receptor agonists,semaglutide,brand-identifiable,included
+Ozempic,Semaglutide,2024,GLP-1 receptor agonists,semaglutide,brand-identifiable,included
+Rybelsus,Semaglutide,2022,GLP-1 receptor agonists,semaglutide,brand-identifiable,included
+Rybelsus,Semaglutide,2023,GLP-1 receptor agonists,semaglutide,brand-identifiable,included
+Rybelsus,Semaglutide,2024,GLP-1 receptor agonists,semaglutide,brand-identifiable,included
+Mounjaro,Tirzepatide,2022,GLP-1 receptor agonists,tirzepatide,brand-identifiable,included
+Mounjaro,Tirzepatide,2023,GLP-1 receptor agonists,tirzepatide,brand-identifiable,included
+Mounjaro,Tirzepatide,2024,GLP-1 receptor agonists,tirzepatide,brand-identifiable,included
+Insulin Aspart,Insulin Aspart,2022,Insulin,insulin,generic-name listed,included
+Insulin Aspart,Insulin Aspart,2023,Insulin,insulin,generic-name listed,included
+Insulin Aspart,Insulin Aspart,2024,Insulin,insulin,generic-name listed,included
+Insulin Aspart Flexpen,Insulin Aspart,2022,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Flexpen,Insulin Aspart,2023,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Flexpen,Insulin Aspart,2024,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Penfill,Insulin Aspart,2022,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Penfill,Insulin Aspart,2023,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Penfill,Insulin Aspart,2024,Insulin,insulin,brand-identifiable,included
+Novolog,Insulin Aspart,2022,Insulin,insulin,brand-identifiable,included
+Novolog,Insulin Aspart,2023,Insulin,insulin,brand-identifiable,included
+Novolog,Insulin Aspart,2024,Insulin,insulin,brand-identifiable,included
+Novolog Flexpen,Insulin Aspart,2022,Insulin,insulin,brand-identifiable,included
+Novolog Flexpen,Insulin Aspart,2023,Insulin,insulin,brand-identifiable,included
+Novolog Flexpen,Insulin Aspart,2024,Insulin,insulin,brand-identifiable,included
+Novolog Penfill,Insulin Aspart,2022,Insulin,insulin,brand-identifiable,included
+Novolog Penfill,Insulin Aspart,2023,Insulin,insulin,brand-identifiable,included
+Novolog Penfill,Insulin Aspart,2024,Insulin,insulin,brand-identifiable,included
+Fiasp,Insulin Aspart (Niacinamide),2022,Insulin,insulin,brand-identifiable,included
+Fiasp,Insulin Aspart (Niacinamide),2023,Insulin,insulin,brand-identifiable,included
+Fiasp,Insulin Aspart (Niacinamide),2024,Insulin,insulin,brand-identifiable,included
+Fiasp Flextouch,Insulin Aspart (Niacinamide),2022,Insulin,insulin,brand-identifiable,included
+Fiasp Flextouch,Insulin Aspart (Niacinamide),2023,Insulin,insulin,brand-identifiable,included
+Fiasp Flextouch,Insulin Aspart (Niacinamide),2024,Insulin,insulin,brand-identifiable,included
+Fiasp Penfill,Insulin Aspart (Niacinamide),2022,Insulin,insulin,brand-identifiable,included
+Fiasp Penfill,Insulin Aspart (Niacinamide),2023,Insulin,insulin,brand-identifiable,included
+Fiasp Penfill,Insulin Aspart (Niacinamide),2024,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Prot Mix 70-30,Insulin Aspart Prot/Insuln Asp,2022,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Prot Mix 70-30,Insulin Aspart Prot/Insuln Asp,2023,Insulin,insulin,brand-identifiable,included
+Insulin Aspart Prot Mix 70-30,Insulin Aspart Prot/Insuln Asp,2024,Insulin,insulin,brand-identifiable,included
+Novolog Mix 70-30,Insulin Aspart Prot/Insuln Asp,2022,Insulin,insulin,brand-identifiable,included
+Novolog Mix 70-30,Insulin Aspart Prot/Insuln Asp,2023,Insulin,insulin,brand-identifiable,included
+Novolog Mix 70-30,Insulin Aspart Prot/Insuln Asp,2024,Insulin,insulin,brand-identifiable,included
+Novolog Mix 70-30 Flexpen,Insulin Aspart Prot/Insuln Asp,2022,Insulin,insulin,brand-identifiable,included
+Novolog Mix 70-30 Flexpen,Insulin Aspart Prot/Insuln Asp,2023,Insulin,insulin,brand-identifiable,included
+Novolog Mix 70-30 Flexpen,Insulin Aspart Prot/Insuln Asp,2024,Insulin,insulin,brand-identifiable,included
+Insulin Degludec,Insulin Degludec,2023,Insulin,insulin,generic-name listed,included
+Insulin Degludec,Insulin Degludec,2024,Insulin,insulin,generic-name listed,included
+Insulin Degludec Pen (U-100),Insulin Degludec,2022,Insulin,insulin,brand-identifiable,included
+Insulin Degludec Pen (U-100),Insulin Degludec,2023,Insulin,insulin,brand-identifiable,included
+Insulin Degludec Pen (U-100),Insulin Degludec,2024,Insulin,insulin,brand-identifiable,included
+Insulin Degludec Pen (U-200),Insulin Degludec,2022,Insulin,insulin,brand-identifiable,included
+Insulin Degludec Pen (U-200),Insulin Degludec,2023,Insulin,insulin,brand-identifiable,included
+Insulin Degludec Pen (U-200),Insulin Degludec,2024,Insulin,insulin,brand-identifiable,included
+Tresiba,Insulin Degludec,2022,Insulin,insulin,brand-identifiable,included
+Tresiba,Insulin Degludec,2023,Insulin,insulin,brand-identifiable,included
+Tresiba,Insulin Degludec,2024,Insulin,insulin,brand-identifiable,included
+Tresiba Flextouch U-100,Insulin Degludec,2022,Insulin,insulin,brand-identifiable,included
+Tresiba Flextouch U-100,Insulin Degludec,2023,Insulin,insulin,brand-identifiable,included
+Tresiba Flextouch U-100,Insulin Degludec,2024,Insulin,insulin,brand-identifiable,included
+Tresiba Flextouch U-200,Insulin Degludec,2022,Insulin,insulin,brand-identifiable,included
+Tresiba Flextouch U-200,Insulin Degludec,2023,Insulin,insulin,brand-identifiable,included
+Tresiba Flextouch U-200,Insulin Degludec,2024,Insulin,insulin,brand-identifiable,included
+Levemir,Insulin Detemir,2022,Insulin,insulin,brand-identifiable,included
+Levemir,Insulin Detemir,2023,Insulin,insulin,brand-identifiable,included
+Levemir,Insulin Detemir,2024,Insulin,insulin,brand-identifiable,included
+Levemir Flexpen,Insulin Detemir,2023,Insulin,insulin,brand-identifiable,included
+Levemir Flexpen,Insulin Detemir,2024,Insulin,insulin,brand-identifiable,included
+Levemir Flextouch,Insulin Detemir,2022,Insulin,insulin,brand-identifiable,included
+Levemir Flextouch,Insulin Detemir,2023,Insulin,insulin,brand-identifiable,included
+Levemir Flextouch,Insulin Detemir,2024,Insulin,insulin,brand-identifiable,included
+Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Basaglar Tempo Pen U-100,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Insulin Glargine,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Insulin Glargine,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Insulin Glargine,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Insulin Glargine Max Solostar,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Insulin Glargine Solostar,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Insulin Glargine Solostar,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Insulin Glargine Solostar,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Lantus,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Lantus,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Lantus,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Lantus Solostar,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Semglee,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Semglee Pen,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Toujeo Max Solostar,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Toujeo Max Solostar,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Toujeo Max Solostar,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Toujeo Solostar,"Insulin Glargine,hum.Rec.Anlog",2022,Insulin,insulin,brand-identifiable,included
+Toujeo Solostar,"Insulin Glargine,hum.Rec.Anlog",2023,Insulin,insulin,brand-identifiable,included
+Toujeo Solostar,"Insulin Glargine,hum.Rec.Anlog",2024,Insulin,insulin,brand-identifiable,included
+Rezvoglar Kwikpen,Insulin Glargine-Aglr,2023,Insulin,insulin,brand-identifiable,included
+Rezvoglar Kwikpen,Insulin Glargine-Aglr,2024,Insulin,insulin,brand-identifiable,included
+Insulin Glargine-Yfgn,Insulin Glargine-Yfgn,2022,Insulin,insulin,generic-name listed,included
+Insulin Glargine-Yfgn,Insulin Glargine-Yfgn,2023,Insulin,insulin,generic-name listed,included
+Insulin Glargine-Yfgn,Insulin Glargine-Yfgn,2024,Insulin,insulin,generic-name listed,included
+Semglee (Yfgn),Insulin Glargine-Yfgn,2022,Insulin,insulin,brand-identifiable,included
+Semglee (Yfgn),Insulin Glargine-Yfgn,2023,Insulin,insulin,brand-identifiable,included
+Semglee (Yfgn),Insulin Glargine-Yfgn,2024,Insulin,insulin,brand-identifiable,included
+Semglee (Yfgn) Pen,Insulin Glargine-Yfgn,2022,Insulin,insulin,brand-identifiable,included
+Semglee (Yfgn) Pen,Insulin Glargine-Yfgn,2023,Insulin,insulin,brand-identifiable,included
+Semglee (Yfgn) Pen,Insulin Glargine-Yfgn,2024,Insulin,insulin,brand-identifiable,included
+Apidra,Insulin Glulisine,2022,Insulin,insulin,brand-identifiable,included
+Apidra,Insulin Glulisine,2023,Insulin,insulin,brand-identifiable,included
+Apidra,Insulin Glulisine,2024,Insulin,insulin,brand-identifiable,included
+Apidra Solostar,Insulin Glulisine,2022,Insulin,insulin,brand-identifiable,included
+Apidra Solostar,Insulin Glulisine,2023,Insulin,insulin,brand-identifiable,included
+Apidra Solostar,Insulin Glulisine,2024,Insulin,insulin,brand-identifiable,included
+Admelog,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Admelog,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Admelog,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Admelog Solostar,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Admelog Solostar,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Admelog Solostar,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Junior Kwikpen,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Junior Kwikpen,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Junior Kwikpen,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Kwikpen U-100,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Kwikpen U-100,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Kwikpen U-100,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Kwikpen U-200,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Kwikpen U-200,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Kwikpen U-200,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Tempo Pen U-100,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Tempo Pen U-100,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Insulin Lispro,Insulin Lispro,2022,Insulin,insulin,generic-name listed,included
+Insulin Lispro,Insulin Lispro,2023,Insulin,insulin,generic-name listed,included
+Insulin Lispro,Insulin Lispro,2024,Insulin,insulin,generic-name listed,included
+Insulin Lispro Junior Kwikpen,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Junior Kwikpen,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Junior Kwikpen,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Kwikpen U-100,Insulin Lispro,2022,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Kwikpen U-100,Insulin Lispro,2023,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Kwikpen U-100,Insulin Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Mix 50-50,Insulin Lispro Protamin/Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Mix 50-50,Insulin Lispro Protamin/Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Mix 50-50 Kwikpen,Insulin Lispro Protamin/Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Mix 50-50 Kwikpen,Insulin Lispro Protamin/Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Mix 50-50 Kwikpen,Insulin Lispro Protamin/Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Mix 75-25,Insulin Lispro Protamin/Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Mix 75-25,Insulin Lispro Protamin/Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Mix 75-25,Insulin Lispro Protamin/Lispro,2024,Insulin,insulin,brand-identifiable,included
+Humalog Mix 75-25 Kwikpen,Insulin Lispro Protamin/Lispro,2022,Insulin,insulin,brand-identifiable,included
+Humalog Mix 75-25 Kwikpen,Insulin Lispro Protamin/Lispro,2023,Insulin,insulin,brand-identifiable,included
+Humalog Mix 75-25 Kwikpen,Insulin Lispro Protamin/Lispro,2024,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Protamine Mix,Insulin Lispro Protamin/Lispro,2022,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Protamine Mix,Insulin Lispro Protamin/Lispro,2023,Insulin,insulin,brand-identifiable,included
+Insulin Lispro Protamine Mix,Insulin Lispro Protamin/Lispro,2024,Insulin,insulin,brand-identifiable,included
+Lyumjev,Insulin Lispro-Aabc,2022,Insulin,insulin,brand-identifiable,included
+Lyumjev,Insulin Lispro-Aabc,2023,Insulin,insulin,brand-identifiable,included
+Lyumjev,Insulin Lispro-Aabc,2024,Insulin,insulin,brand-identifiable,included
+Lyumjev Kwikpen U-100,Insulin Lispro-Aabc,2022,Insulin,insulin,brand-identifiable,included
+Lyumjev Kwikpen U-100,Insulin Lispro-Aabc,2023,Insulin,insulin,brand-identifiable,included
+Lyumjev Kwikpen U-100,Insulin Lispro-Aabc,2024,Insulin,insulin,brand-identifiable,included
+Lyumjev Kwikpen U-200,Insulin Lispro-Aabc,2022,Insulin,insulin,brand-identifiable,included
+Lyumjev Kwikpen U-200,Insulin Lispro-Aabc,2023,Insulin,insulin,brand-identifiable,included
+Lyumjev Kwikpen U-200,Insulin Lispro-Aabc,2024,Insulin,insulin,brand-identifiable,included
+Lyumjev Tempo Pen U-100,Insulin Lispro-Aabc,2023,Insulin,insulin,brand-identifiable,included
+Lyumjev Tempo Pen U-100,Insulin Lispro-Aabc,2024,Insulin,insulin,brand-identifiable,included
+Humulin 70-30,Insulin Nph Hum/Reg Insulin Hm,2022,Insulin,insulin,brand-identifiable,included
+Humulin 70-30,Insulin Nph Hum/Reg Insulin Hm,2023,Insulin,insulin,brand-identifiable,included
+Humulin 70-30,Insulin Nph Hum/Reg Insulin Hm,2024,Insulin,insulin,brand-identifiable,included
+Humulin 70/30 Kwikpen,Insulin Nph Hum/Reg Insulin Hm,2022,Insulin,insulin,brand-identifiable,included
+Humulin 70/30 Kwikpen,Insulin Nph Hum/Reg Insulin Hm,2023,Insulin,insulin,brand-identifiable,included
+Humulin 70/30 Kwikpen,Insulin Nph Hum/Reg Insulin Hm,2024,Insulin,insulin,brand-identifiable,included
+Novolin 70-30,Insulin Nph Hum/Reg Insulin Hm,2022,Insulin,insulin,brand-identifiable,included
+Novolin 70-30,Insulin Nph Hum/Reg Insulin Hm,2023,Insulin,insulin,brand-identifiable,included
+Novolin 70-30,Insulin Nph Hum/Reg Insulin Hm,2024,Insulin,insulin,brand-identifiable,included
+Novolin 70-30 Flexpen,Insulin Nph Hum/Reg Insulin Hm,2022,Insulin,insulin,brand-identifiable,included
+Novolin 70-30 Flexpen,Insulin Nph Hum/Reg Insulin Hm,2023,Insulin,insulin,brand-identifiable,included
+Novolin 70-30 Flexpen,Insulin Nph Hum/Reg Insulin Hm,2024,Insulin,insulin,brand-identifiable,included
+Humulin N,Insulin Nph Human Isophane,2022,Insulin,insulin,brand-identifiable,included
+Humulin N,Insulin Nph Human Isophane,2023,Insulin,insulin,brand-identifiable,included
+Humulin N,Insulin Nph Human Isophane,2024,Insulin,insulin,brand-identifiable,included
+Humulin N Kwikpen,Insulin Nph Human Isophane,2022,Insulin,insulin,brand-identifiable,included
+Humulin N Kwikpen,Insulin Nph Human Isophane,2023,Insulin,insulin,brand-identifiable,included
+Humulin N Kwikpen,Insulin Nph Human Isophane,2024,Insulin,insulin,brand-identifiable,included
+Novolin N,Insulin Nph Human Isophane,2022,Insulin,insulin,brand-identifiable,included
+Novolin N,Insulin Nph Human Isophane,2023,Insulin,insulin,brand-identifiable,included
+Novolin N,Insulin Nph Human Isophane,2024,Insulin,insulin,brand-identifiable,included
+Novolin N Flexpen,Insulin Nph Human Isophane,2022,Insulin,insulin,brand-identifiable,included
+Novolin N Flexpen,Insulin Nph Human Isophane,2023,Insulin,insulin,brand-identifiable,included
+Novolin N Flexpen,Insulin Nph Human Isophane,2024,Insulin,insulin,brand-identifiable,included
+Omnipod 5 Dexg7g6 Intro(Gen 5),"Insulin Pmp Cart,aut,g6/7,cntr",2024,Insulin,insulin,brand-identifiable,included
+Myxredlin,Insulin Regular In 0.9 % Nacl,2022,Insulin,insulin,brand-identifiable,included
+Afrezza,"Insulin Regular, Human",2022,Insulin,insulin,brand-identifiable,included
+Afrezza,"Insulin Regular, Human",2023,Insulin,insulin,brand-identifiable,included
+Afrezza,"Insulin Regular, Human",2024,Insulin,insulin,brand-identifiable,included
+Humulin R,"Insulin Regular, Human",2022,Insulin,insulin,brand-identifiable,included
+Humulin R,"Insulin Regular, Human",2023,Insulin,insulin,brand-identifiable,included
+Humulin R,"Insulin Regular, Human",2024,Insulin,insulin,brand-identifiable,included
+Humulin R U-500,"Insulin Regular, Human",2022,Insulin,insulin,brand-identifiable,included
+Humulin R U-500,"Insulin Regular, Human",2023,Insulin,insulin,brand-identifiable,included
+Humulin R U-500,"Insulin Regular, Human",2024,Insulin,insulin,brand-identifiable,included
+Humulin R U-500 Kwikpen,"Insulin Regular, Human",2022,Insulin,insulin,brand-identifiable,included
+Humulin R U-500 Kwikpen,"Insulin Regular, Human",2023,Insulin,insulin,brand-identifiable,included
+Humulin R U-500 Kwikpen,"Insulin Regular, Human",2024,Insulin,insulin,brand-identifiable,included
+Novolin R,"Insulin Regular, Human",2022,Insulin,insulin,brand-identifiable,included
+Novolin R,"Insulin Regular, Human",2023,Insulin,insulin,brand-identifiable,included
+Novolin R,"Insulin Regular, Human",2024,Insulin,insulin,brand-identifiable,included
+Novolin R Flexpen,"Insulin Regular, Human",2022,Insulin,insulin,brand-identifiable,included
+Novolin R Flexpen,"Insulin Regular, Human",2023,Insulin,insulin,brand-identifiable,included
+Novolin R Flexpen,"Insulin Regular, Human",2024,Insulin,insulin,brand-identifiable,included
+Acarbose,Acarbose,2022,Other diabetes therapies,acarbose,generic-name listed,included
+Acarbose,Acarbose,2023,Other diabetes therapies,acarbose,generic-name listed,included
+Acarbose,Acarbose,2024,Other diabetes therapies,acarbose,generic-name listed,included
+Miglitol,Miglitol,2022,Other diabetes therapies,miglitol,generic-name listed,included
+Miglitol,Miglitol,2023,Other diabetes therapies,miglitol,generic-name listed,included
+Miglitol,Miglitol,2024,Other diabetes therapies,miglitol,generic-name listed,included
+Nateglinide,Nateglinide,2022,Other diabetes therapies,nateglinide,generic-name listed,included
+Nateglinide,Nateglinide,2023,Other diabetes therapies,nateglinide,generic-name listed,included
+Nateglinide,Nateglinide,2024,Other diabetes therapies,nateglinide,generic-name listed,included
+Symlinpen 120,Pramlintide Acetate,2022,Other diabetes therapies,pramlintide,brand-identifiable,included
+Symlinpen 120,Pramlintide Acetate,2023,Other diabetes therapies,pramlintide,brand-identifiable,included
+Symlinpen 120,Pramlintide Acetate,2024,Other diabetes therapies,pramlintide,brand-identifiable,included
+Symlinpen 60,Pramlintide Acetate,2022,Other diabetes therapies,pramlintide,brand-identifiable,included
+Symlinpen 60,Pramlintide Acetate,2023,Other diabetes therapies,pramlintide,brand-identifiable,included
+Symlinpen 60,Pramlintide Acetate,2024,Other diabetes therapies,pramlintide,brand-identifiable,included
+Repaglinide,Repaglinide,2022,Other diabetes therapies,repaglinide,generic-name listed,included
+Repaglinide,Repaglinide,2023,Other diabetes therapies,repaglinide,generic-name listed,included
+Repaglinide,Repaglinide,2024,Other diabetes therapies,repaglinide,generic-name listed,included
+Invokana,Canagliflozin,2022,SGLT2 inhibitors,canagliflozin,brand-identifiable,included
+Invokana,Canagliflozin,2023,SGLT2 inhibitors,canagliflozin,brand-identifiable,included
+Invokana,Canagliflozin,2024,SGLT2 inhibitors,canagliflozin,brand-identifiable,included
+Invokamet,Canagliflozin/Metformin Hcl,2022,SGLT2 inhibitors,canagliflozin|metformin,brand-identifiable,included
+Invokamet,Canagliflozin/Metformin Hcl,2023,SGLT2 inhibitors,canagliflozin|metformin,brand-identifiable,included
+Invokamet,Canagliflozin/Metformin Hcl,2024,SGLT2 inhibitors,canagliflozin|metformin,brand-identifiable,included
+Invokamet Xr,Canagliflozin/Metformin Hcl,2022,SGLT2 inhibitors,canagliflozin|metformin,brand-identifiable,included
+Invokamet Xr,Canagliflozin/Metformin Hcl,2023,SGLT2 inhibitors,canagliflozin|metformin,brand-identifiable,included
+Invokamet Xr,Canagliflozin/Metformin Hcl,2024,SGLT2 inhibitors,canagliflozin|metformin,brand-identifiable,included
+Dapagliflozin,Dapagliflozin Propanediol,2024,SGLT2 inhibitors,dapagliflozin,brand-identifiable,included
+Farxiga,Dapagliflozin Propanediol,2022,SGLT2 inhibitors,dapagliflozin,brand-identifiable,included
+Farxiga,Dapagliflozin Propanediol,2023,SGLT2 inhibitors,dapagliflozin,brand-identifiable,included
+Farxiga,Dapagliflozin Propanediol,2024,SGLT2 inhibitors,dapagliflozin,brand-identifiable,included
+Xigduo Xr,Dapagliflozin/Metformin Hcl,2022,SGLT2 inhibitors,dapagliflozin|metformin,brand-identifiable,included
+Jardiance,Empagliflozin,2022,SGLT2 inhibitors,empagliflozin,brand-identifiable,included
+Jardiance,Empagliflozin,2023,SGLT2 inhibitors,empagliflozin,brand-identifiable,included
+Jardiance,Empagliflozin,2024,SGLT2 inhibitors,empagliflozin,brand-identifiable,included
+Synjardy,Empagliflozin/Metformin Hcl,2022,SGLT2 inhibitors,empagliflozin|metformin,brand-identifiable,included
+Synjardy,Empagliflozin/Metformin Hcl,2023,SGLT2 inhibitors,empagliflozin|metformin,brand-identifiable,included
+Synjardy,Empagliflozin/Metformin Hcl,2024,SGLT2 inhibitors,empagliflozin|metformin,brand-identifiable,included
+Synjardy Xr,Empagliflozin/Metformin Hcl,2022,SGLT2 inhibitors,empagliflozin|metformin,brand-identifiable,included
+Synjardy Xr,Empagliflozin/Metformin Hcl,2023,SGLT2 inhibitors,empagliflozin|metformin,brand-identifiable,included
+Synjardy Xr,Empagliflozin/Metformin Hcl,2024,SGLT2 inhibitors,empagliflozin|metformin,brand-identifiable,included
+Steglatro,Ertugliflozin Pidolate,2022,SGLT2 inhibitors,ertugliflozin,brand-identifiable,included
+Steglatro,Ertugliflozin Pidolate,2023,SGLT2 inhibitors,ertugliflozin,brand-identifiable,included
+Steglatro,Ertugliflozin Pidolate,2024,SGLT2 inhibitors,ertugliflozin,brand-identifiable,included
+Segluromet,Ertugliflozin/Metformin,2022,SGLT2 inhibitors,ertugliflozin|metformin,brand-identifiable,included
+Segluromet,Ertugliflozin/Metformin,2023,SGLT2 inhibitors,ertugliflozin|metformin,brand-identifiable,included
+Segluromet,Ertugliflozin/Metformin,2024,SGLT2 inhibitors,ertugliflozin|metformin,brand-identifiable,included
+Qtern,Dapagliflozin/Saxagliptin Hcl,2022,SGLT2/DPP-4 combination,dapagliflozin|saxagliptin,brand-identifiable,included
+Qtern,Dapagliflozin/Saxagliptin Hcl,2023,SGLT2/DPP-4 combination,dapagliflozin|saxagliptin,brand-identifiable,included
+Qtern,Dapagliflozin/Saxagliptin Hcl,2024,SGLT2/DPP-4 combination,dapagliflozin|saxagliptin,brand-identifiable,included
+Glyxambi,Empagliflozin/Linagliptin,2022,SGLT2/DPP-4 combination,empagliflozin|linagliptin,brand-identifiable,included
+Glyxambi,Empagliflozin/Linagliptin,2023,SGLT2/DPP-4 combination,empagliflozin|linagliptin,brand-identifiable,included
+Glyxambi,Empagliflozin/Linagliptin,2024,SGLT2/DPP-4 combination,empagliflozin|linagliptin,brand-identifiable,included
+Steglujan,Ertugliflozin/Sitagliptin Phos,2022,SGLT2/DPP-4 combination,ertugliflozin|sitagliptin,brand-identifiable,included
+Steglujan,Ertugliflozin/Sitagliptin Phos,2023,SGLT2/DPP-4 combination,ertugliflozin|sitagliptin,brand-identifiable,included
+Steglujan,Ertugliflozin/Sitagliptin Phos,2024,SGLT2/DPP-4 combination,ertugliflozin|sitagliptin,brand-identifiable,included
+Amaryl,Glimepiride,2022,Sulfonylureas,glimepiride,brand-identifiable,included
+Amaryl,Glimepiride,2023,Sulfonylureas,glimepiride,brand-identifiable,included
+Glimepiride,Glimepiride,2022,Sulfonylureas,glimepiride,generic-name listed,included
+Glimepiride,Glimepiride,2023,Sulfonylureas,glimepiride,generic-name listed,included
+Glimepiride,Glimepiride,2024,Sulfonylureas,glimepiride,generic-name listed,included
+Glipizide,Glipizide,2022,Sulfonylureas,glipizide,generic-name listed,included
+Glipizide,Glipizide,2023,Sulfonylureas,glipizide,generic-name listed,included
+Glipizide,Glipizide,2024,Sulfonylureas,glipizide,generic-name listed,included
+Glipizide Er,Glipizide,2022,Sulfonylureas,glipizide,brand-identifiable,included
+Glipizide Er,Glipizide,2023,Sulfonylureas,glipizide,brand-identifiable,included
+Glipizide Er,Glipizide,2024,Sulfonylureas,glipizide,brand-identifiable,included
+Glipizide Xl,Glipizide,2022,Sulfonylureas,glipizide,brand-identifiable,included
+Glipizide Xl,Glipizide,2023,Sulfonylureas,glipizide,brand-identifiable,included
+Glipizide Xl,Glipizide,2024,Sulfonylureas,glipizide,brand-identifiable,included
+Glucotrol Xl,Glipizide,2022,Sulfonylureas,glipizide,brand-identifiable,included
+Glucotrol Xl,Glipizide,2023,Sulfonylureas,glipizide,brand-identifiable,included
+Glucotrol Xl,Glipizide,2024,Sulfonylureas,glipizide,brand-identifiable,included
+Glyburide,Glyburide,2022,Sulfonylureas,glyburide,generic-name listed,included
+Glyburide,Glyburide,2023,Sulfonylureas,glyburide,generic-name listed,included
+Glyburide,Glyburide,2024,Sulfonylureas,glyburide,generic-name listed,included
+Glyburide Micronized,"Glyburide,micronized",2022,Sulfonylureas,glyburide,generic-name listed,included
+Glyburide Micronized,"Glyburide,micronized",2023,Sulfonylureas,glyburide,generic-name listed,included
+Glyburide Micronized,"Glyburide,micronized",2024,Sulfonylureas,glyburide,generic-name listed,included
+Pioglitazone-Glimepiride,Pioglitazone Hcl/Glimepiride,2022,Sulfonylureas,glimepiride|pioglitazone,brand-identifiable,included
+Pioglitazone-Glimepiride,Pioglitazone Hcl/Glimepiride,2023,Sulfonylureas,glimepiride|pioglitazone,brand-identifiable,included
+Pioglitazone-Glimepiride,Pioglitazone Hcl/Glimepiride,2024,Sulfonylureas,glimepiride|pioglitazone,brand-identifiable,included
+Actos,Pioglitazone Hcl,2022,Thiazolidinediones,pioglitazone,brand-identifiable,included
+Actos,Pioglitazone Hcl,2023,Thiazolidinediones,pioglitazone,brand-identifiable,included
+Actos,Pioglitazone Hcl,2024,Thiazolidinediones,pioglitazone,brand-identifiable,included
+Pioglitazone Hcl,Pioglitazone Hcl,2022,Thiazolidinediones,pioglitazone,generic-name listed,included
+Pioglitazone Hcl,Pioglitazone Hcl,2023,Thiazolidinediones,pioglitazone,generic-name listed,included
+Pioglitazone Hcl,Pioglitazone Hcl,2024,Thiazolidinediones,pioglitazone,generic-name listed,included

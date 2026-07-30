@@ -1,0 +1,1012 @@
+{
+  "market_size_and_growth": [
+    {
+      "year": 2022,
+      "total_claims": 83702377.0,
+      "total_30day_fills": 171623487.80000582,
+      "total_drug_cost": 35665409118.36049,
+      "prescribers": 278371,
+      "yoy_fill_growth": null,
+      "selected_class_share": 0.0723613601
+    },
+    {
+      "year": 2023,
+      "total_claims": 92799490.0,
+      "total_30day_fills": 187002433.3999989,
+      "total_drug_cost": 48150586219.13995,
+      "prescribers": 298483,
+      "yoy_fill_growth": 0.0896086299,
+      "selected_class_share": 0.1059903373
+    },
+    {
+      "year": 2024,
+      "total_claims": 104160253.0,
+      "total_30day_fills": 205841944.69998625,
+      "total_drug_cost": 50712600298.579895,
+      "prescribers": 316486,
+      "yoy_fill_growth": 0.1007447388,
+      "selected_class_share": 0.1280162706
+    }
+  ],
+  "class_leaders": [
+    {
+      "year": 2022,
+      "drug_class": "Biguanides",
+      "total_claims": 31567481.0,
+      "total_30day_fills": 75316679.09999959,
+      "total_drug_cost": 420793263.73000026,
+      "prescribers": 250507,
+      "fill_share": 0.4388483189
+    },
+    {
+      "year": 2022,
+      "drug_class": "Sulfonylureas",
+      "total_claims": 11345593.0,
+      "total_30day_fills": 26925990.099999633,
+      "total_drug_cost": 145984779.95999947,
+      "prescribers": 154417,
+      "fill_share": 0.1568898899
+    },
+    {
+      "year": 2022,
+      "drug_class": "Insulin",
+      "total_claims": 15405531.0,
+      "total_30day_fills": 25678772.69999986,
+      "total_drug_cost": 10496270946.359953,
+      "prescribers": 153231,
+      "fill_share": 0.1496227179
+    },
+    {
+      "year": 2022,
+      "drug_class": "SGLT2 inhibitors",
+      "total_claims": 7799918.0,
+      "total_30day_fills": 13747545.499999959,
+      "total_drug_cost": 7734835017.5100155,
+      "prescribers": 140142,
+      "fill_share": 0.0801029374
+    },
+    {
+      "year": 2022,
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 8382895.0,
+      "total_30day_fills": 12178487.499999775,
+      "total_drug_cost": 11315320065.149952,
+      "prescribers": 129244,
+      "fill_share": 0.0709604941
+    },
+    {
+      "year": 2022,
+      "drug_class": "DPP-4 inhibitors",
+      "total_claims": 5990391.0,
+      "total_30day_fills": 10425422.300000062,
+      "total_drug_cost": 5251115232.480005,
+      "prescribers": 117393,
+      "fill_share": 0.0607458946
+    },
+    {
+      "year": 2022,
+      "drug_class": "Thiazolidinediones",
+      "total_claims": 2571866.0,
+      "total_30day_fills": 6208081.200000024,
+      "total_drug_cost": 47395248.059999906,
+      "prescribers": 67264,
+      "fill_share": 0.0361726782
+    },
+    {
+      "year": 2022,
+      "drug_class": "Other diabetes therapies",
+      "total_claims": 420531.0,
+      "total_30day_fills": 800995.9000000003,
+      "total_drug_cost": 26820815.28,
+      "prescribers": 12686,
+      "fill_share": 0.0046671695
+    },
+    {
+      "year": 2022,
+      "drug_class": "Fixed-ratio insulin/GLP-1",
+      "total_claims": 151215.0,
+      "total_30day_fills": 240421.5000000002,
+      "total_drug_cost": 168024839.55000007,
+      "prescribers": 5694,
+      "fill_share": 0.0014008659
+    },
+    {
+      "year": 2022,
+      "drug_class": "SGLT2/DPP-4 combination",
+      "total_claims": 66956.0,
+      "total_30day_fills": 101092.0,
+      "total_drug_cost": 58848910.28,
+      "prescribers": 2852,
+      "fill_share": 0.0005890336
+    },
+    {
+      "year": 2023,
+      "drug_class": "Biguanides",
+      "total_claims": 32132206.0,
+      "total_30day_fills": 77298000.60000332,
+      "total_drug_cost": 676857961.4200028,
+      "prescribers": 254687,
+      "fill_share": 0.4133529131
+    },
+    {
+      "year": 2023,
+      "drug_class": "Sulfonylureas",
+      "total_claims": 10901007.0,
+      "total_30day_fills": 26176628.699998703,
+      "total_drug_cost": 163189239.22999924,
+      "prescribers": 152543,
+      "fill_share": 0.1399801501
+    },
+    {
+      "year": 2023,
+      "drug_class": "Insulin",
+      "total_claims": 15188065.0,
+      "total_30day_fills": 25733717.200000316,
+      "total_drug_cost": 10607135336.050037,
+      "prescribers": 152086,
+      "fill_share": 0.1376116702
+    },
+    {
+      "year": 2023,
+      "drug_class": "SGLT2 inhibitors",
+      "total_claims": 11647668.0,
+      "total_30day_fills": 20970984.79999938,
+      "total_drug_cost": 12164880943.129953,
+      "prescribers": 182779,
+      "fill_share": 0.1121428444
+    },
+    {
+      "year": 2023,
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 14082490.0,
+      "total_30day_fills": 19481424.399999216,
+      "total_drug_cost": 19050602119.869934,
+      "prescribers": 171805,
+      "fill_share": 0.1041773845
+    },
+    {
+      "year": 2023,
+      "drug_class": "DPP-4 inhibitors",
+      "total_claims": 5519878.0,
+      "total_30day_fills": 9648781.800000058,
+      "total_drug_cost": 5087757747.95998,
+      "prescribers": 113210,
+      "fill_share": 0.0515970922
+    },
+    {
+      "year": 2023,
+      "drug_class": "Thiazolidinediones",
+      "total_claims": 2627208.0,
+      "total_30day_fills": 6428972.20000009,
+      "total_drug_cost": 55188430.32999991,
+      "prescribers": 69068,
+      "fill_share": 0.0343790831
+    },
+    {
+      "year": 2023,
+      "drug_class": "Other diabetes therapies",
+      "total_claims": 415598.0,
+      "total_30day_fills": 805303.2000000004,
+      "total_drug_cost": 26656543.24000001,
+      "prescribers": 12419,
+      "fill_share": 0.0043063782
+    },
+    {
+      "year": 2023,
+      "drug_class": "Fixed-ratio insulin/GLP-1",
+      "total_claims": 209194.0,
+      "total_30day_fills": 339026.6,
+      "total_drug_cost": 245463838.50999984,
+      "prescribers": 7019,
+      "fill_share": 0.0018129529
+    },
+    {
+      "year": 2023,
+      "drug_class": "SGLT2/DPP-4 combination",
+      "total_claims": 76176.0,
+      "total_30day_fills": 119593.9,
+      "total_drug_cost": 72854059.40000004,
+      "prescribers": 3042,
+      "fill_share": 0.0006395313
+    },
+    {
+      "year": 2024,
+      "drug_class": "Biguanides",
+      "total_claims": 33386070.0,
+      "total_30day_fills": 80618816.00000258,
+      "total_drug_cost": 539992557.6099991,
+      "prescribers": 261371,
+      "fill_share": 0.3916539757
+    },
+    {
+      "year": 2024,
+      "drug_class": "SGLT2 inhibitors",
+      "total_claims": 16317988.0,
+      "total_30day_fills": 29378231.399998933,
+      "total_drug_cost": 15828308617.100107,
+      "prescribers": 218909,
+      "fill_share": 0.1427222787
+    },
+    {
+      "year": 2024,
+      "drug_class": "Insulin",
+      "total_claims": 15132249.0,
+      "total_30day_fills": 26209840.79999984,
+      "total_drug_cost": 4771091149.02001,
+      "prescribers": 155077,
+      "fill_share": 0.1273299319
+    },
+    {
+      "year": 2024,
+      "drug_class": "Sulfonylureas",
+      "total_claims": 10866181.0,
+      "total_30day_fills": 26209674.19999919,
+      "total_drug_cost": 115803671.93000016,
+      "prescribers": 152507,
+      "fill_share": 0.1273291225
+    },
+    {
+      "year": 2024,
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 19515299.0,
+      "total_30day_fills": 25992217.399998806,
+      "total_drug_cost": 24460308989.840145,
+      "prescribers": 199481,
+      "fill_share": 0.1262726965
+    },
+    {
+      "year": 2024,
+      "drug_class": "DPP-4 inhibitors",
+      "total_claims": 5435867.0,
+      "total_30day_fills": 9288841.200000059,
+      "total_drug_cost": 4620569888.920017,
+      "prescribers": 112448,
+      "fill_share": 0.0451260855
+    },
+    {
+      "year": 2024,
+      "drug_class": "Thiazolidinediones",
+      "total_claims": 2760442.0,
+      "total_30day_fills": 6782462.5000000615,
+      "total_drug_cost": 36179698.76000002,
+      "prescribers": 71586,
+      "fill_share": 0.0329498563
+    },
+    {
+      "year": 2024,
+      "drug_class": "Other diabetes therapies",
+      "total_claims": 441767.0,
+      "total_30day_fills": 868341.0,
+      "total_drug_cost": 16929721.67000001,
+      "prescribers": 12750,
+      "fill_share": 0.0042184842
+    },
+    {
+      "year": 2024,
+      "drug_class": "Fixed-ratio insulin/GLP-1",
+      "total_claims": 217824.0,
+      "total_30day_fills": 358900.6999999998,
+      "total_drug_cost": 245600949.3899998,
+      "prescribers": 7189,
+      "fill_share": 0.0017435742
+    },
+    {
+      "year": 2024,
+      "drug_class": "SGLT2/DPP-4 combination",
+      "total_claims": 86566.0,
+      "total_30day_fills": 134619.5,
+      "total_drug_cost": 77815054.34000002,
+      "prescribers": 3254,
+      "fill_share": 0.0006539945
+    }
+  ],
+  "product_leaders_2024": [
+    {
+      "brand_name": "Metformin Hcl",
+      "generic_name": "Metformin Hcl",
+      "drug_class": "Biguanides",
+      "total_claims": 23274114.0,
+      "total_30day_fills": 55597467.99999997,
+      "total_drug_cost": 183281521.65000066,
+      "avg_cost_per_claim": 7.8749086496
+    },
+    {
+      "brand_name": "Metformin Hcl Er",
+      "generic_name": "Metformin Hcl",
+      "drug_class": "Biguanides",
+      "total_claims": 9671266.0,
+      "total_30day_fills": 24253432.099999603,
+      "total_drug_cost": 96151144.50999987,
+      "avg_cost_per_claim": 9.9419398153
+    },
+    {
+      "brand_name": "Jardiance",
+      "generic_name": "Empagliflozin",
+      "drug_class": "SGLT2 inhibitors",
+      "total_claims": 10654599.0,
+      "total_30day_fills": 19763777.299999632,
+      "total_drug_cost": 10678957371.72001,
+      "avg_cost_per_claim": 1002.2861838085
+    },
+    {
+      "brand_name": "Ozempic",
+      "generic_name": "Semaglutide",
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 9930484.0,
+      "total_30day_fills": 13681288.099999767,
+      "total_drug_cost": 12375986474.950024,
+      "avg_cost_per_claim": 1246.2621635511
+    },
+    {
+      "brand_name": "Glimepiride",
+      "generic_name": "Glimepiride",
+      "drug_class": "Sulfonylureas",
+      "total_claims": 4104456.0,
+      "total_30day_fills": 10025196.90000003,
+      "total_drug_cost": 37046460.70999991,
+      "avg_cost_per_claim": 9.0259124985
+    },
+    {
+      "brand_name": "Glipizide",
+      "generic_name": "Glipizide",
+      "drug_class": "Sulfonylureas",
+      "total_claims": 3946935.0,
+      "total_30day_fills": 9362191.000000043,
+      "total_drug_cost": 37869374.65000001,
+      "avg_cost_per_claim": 9.5946284015
+    },
+    {
+      "brand_name": "Lantus Solostar",
+      "generic_name": "Insulin Glargine,hum.Rec.Anlog",
+      "drug_class": "Insulin",
+      "total_claims": 4903461.0,
+      "total_30day_fills": 9178375.90000004,
+      "total_drug_cost": 620067354.5699992,
+      "avg_cost_per_claim": 126.4550395262
+    },
+    {
+      "brand_name": "Farxiga",
+      "generic_name": "Dapagliflozin Propanediol",
+      "drug_class": "SGLT2 inhibitors",
+      "total_claims": 5036718.0,
+      "total_30day_fills": 8664589.600000074,
+      "total_drug_cost": 4661889792.390004,
+      "avg_cost_per_claim": 925.5808628535
+    },
+    {
+      "brand_name": "Pioglitazone Hcl",
+      "generic_name": "Pioglitazone Hcl",
+      "drug_class": "Thiazolidinediones",
+      "total_claims": 2760315.0,
+      "total_30day_fills": 6782312.5000000615,
+      "total_drug_cost": 36101490.07999998,
+      "avg_cost_per_claim": 13.0787573447
+    },
+    {
+      "brand_name": "Glipizide Er",
+      "generic_name": "Glipizide",
+      "drug_class": "Sulfonylureas",
+      "total_claims": 2747475.0,
+      "total_30day_fills": 6698243.900000064,
+      "total_drug_cost": 39773505.770000055,
+      "avg_cost_per_claim": 14.4763849607
+    },
+    {
+      "brand_name": "Januvia",
+      "generic_name": "Sitagliptin Phosphate",
+      "drug_class": "DPP-4 inhibitors",
+      "total_claims": 3490163.0,
+      "total_30day_fills": 6219575.900000055,
+      "total_drug_cost": 3195725240.5500016,
+      "avg_cost_per_claim": 915.6378199385
+    },
+    {
+      "brand_name": "Mounjaro",
+      "generic_name": "Tirzepatide",
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 4694896.0,
+      "total_30day_fills": 5603815.7000001725,
+      "total_drug_cost": 5825295740.730005,
+      "avg_cost_per_claim": 1240.7720513362
+    },
+    {
+      "brand_name": "Trulicity",
+      "generic_name": "Dulaglutide",
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 3816376.0,
+      "total_30day_fills": 5055403.500000128,
+      "total_drug_cost": 4786817612.429985,
+      "avg_cost_per_claim": 1254.2835434533
+    },
+    {
+      "brand_name": "Basaglar Kwikpen U-100",
+      "generic_name": "Insulin Glargine,hum.Rec.Anlog",
+      "drug_class": "Insulin",
+      "total_claims": 1303212.0,
+      "total_30day_fills": 2108627.8000000007,
+      "total_drug_cost": 466607267.19000024,
+      "avg_cost_per_claim": 358.0440229142
+    },
+    {
+      "brand_name": "Tresiba Flextouch U-100",
+      "generic_name": "Insulin Degludec",
+      "drug_class": "Insulin",
+      "total_claims": 930082.0,
+      "total_30day_fills": 1823306.899999997,
+      "total_drug_cost": 594009351.8100001,
+      "avg_cost_per_claim": 638.6634208704
+    },
+    {
+      "brand_name": "Novolog Flexpen",
+      "generic_name": "Insulin Aspart",
+      "drug_class": "Insulin",
+      "total_claims": 1045144.0,
+      "total_30day_fills": 1803951.7999999968,
+      "total_drug_cost": 231788111.2599998,
+      "avg_cost_per_claim": 221.7762444792
+    },
+    {
+      "brand_name": "Tradjenta",
+      "generic_name": "Linagliptin",
+      "drug_class": "DPP-4 inhibitors",
+      "total_claims": 1106446.0,
+      "total_30day_fills": 1708568.0999999973,
+      "total_drug_cost": 776080947.7700021,
+      "avg_cost_per_claim": 701.4178258767
+    },
+    {
+      "brand_name": "Humalog Kwikpen U-100",
+      "generic_name": "Insulin Lispro",
+      "drug_class": "Insulin",
+      "total_claims": 946211.0,
+      "total_30day_fills": 1696711.7000000011,
+      "total_drug_cost": 234056963.39999992,
+      "avg_cost_per_claim": 247.3623360963
+    },
+    {
+      "brand_name": "Rybelsus",
+      "generic_name": "Semaglutide",
+      "drug_class": "GLP-1 receptor agonists",
+      "total_claims": 899704.0,
+      "total_30day_fills": 1429081.6999999995,
+      "total_drug_cost": 1309259750.8100045,
+      "avg_cost_per_claim": 1455.2116594013
+    },
+    {
+      "brand_name": "Tresiba Flextouch U-200",
+      "generic_name": "Insulin Degludec",
+      "drug_class": "Insulin",
+      "total_claims": 644173.0,
+      "total_30day_fills": 1217714.3000000012,
+      "total_drug_cost": 700789232.7199994,
+      "avg_cost_per_claim": 1087.889794698
+    }
+  ],
+  "state_leaders_2024": [
+    {
+      "provider_state": "CA",
+      "total_claims": 10574835.0,
+      "total_30day_fills": 22278247.69999977,
+      "total_drug_cost": 4502531068.6200075,
+      "prescribers": 33073,
+      "selected_class_share": 0.0958269218
+    },
+    {
+      "provider_state": "TX",
+      "total_claims": 7623020.0,
+      "total_30day_fills": 15900890.399999794,
+      "total_drug_cost": 4206356523.399998,
+      "prescribers": 21686,
+      "selected_class_share": 0.1463356228
+    },
+    {
+      "provider_state": "FL",
+      "total_claims": 7456545.0,
+      "total_30day_fills": 15743771.799999839,
+      "total_drug_cost": 3437856969.3399987,
+      "prescribers": 21535,
+      "selected_class_share": 0.1135332068
+    },
+    {
+      "provider_state": "NY",
+      "total_claims": 7354683.0,
+      "total_30day_fills": 13894632.499999855,
+      "total_drug_cost": 3868008953.8899903,
+      "prescribers": 21013,
+      "selected_class_share": 0.1318742039
+    },
+    {
+      "provider_state": "PA",
+      "total_claims": 5009791.0,
+      "total_30day_fills": 9507816.300000023,
+      "total_drug_cost": 2359647017.5299997,
+      "prescribers": 14127,
+      "selected_class_share": 0.127832434
+    },
+    {
+      "provider_state": "OH",
+      "total_claims": 4287930.0,
+      "total_30day_fills": 8224945.00000007,
+      "total_drug_cost": 1988472099.0100026,
+      "prescribers": 11795,
+      "selected_class_share": 0.1235631606
+    },
+    {
+      "provider_state": "IL",
+      "total_claims": 3723966.0,
+      "total_30day_fills": 7545038.100000045,
+      "total_drug_cost": 1741629542.77,
+      "prescribers": 11443,
+      "selected_class_share": 0.1136809369
+    },
+    {
+      "provider_state": "MI",
+      "total_claims": 3422346.0,
+      "total_30day_fills": 6844701.400000069,
+      "total_drug_cost": 1775584182.9700031,
+      "prescribers": 10813,
+      "selected_class_share": 0.1398940208
+    },
+    {
+      "provider_state": "NC",
+      "total_claims": 3560011.0,
+      "total_30day_fills": 6772022.300000052,
+      "total_drug_cost": 1842134006.759997,
+      "prescribers": 10734,
+      "selected_class_share": 0.1488099057
+    },
+    {
+      "provider_state": "GA",
+      "total_claims": 3273581.0,
+      "total_30day_fills": 6340120.2000000635,
+      "total_drug_cost": 1749561283.2300014,
+      "prescribers": 8447,
+      "selected_class_share": 0.1490446348
+    },
+    {
+      "provider_state": "NJ",
+      "total_claims": 2719443.0,
+      "total_30day_fills": 5560742.7000000235,
+      "total_drug_cost": 1396171761.6399984,
+      "prescribers": 7821,
+      "selected_class_share": 0.1163724227
+    },
+    {
+      "provider_state": "TN",
+      "total_claims": 2484715.0,
+      "total_30day_fills": 4814413.300000019,
+      "total_drug_cost": 1270105328.3399994,
+      "prescribers": 6922,
+      "selected_class_share": 0.1458847748
+    },
+    {
+      "provider_state": "IN",
+      "total_claims": 2439449.0,
+      "total_30day_fills": 4779912.200000022,
+      "total_drug_cost": 1295379286.37,
+      "prescribers": 6438,
+      "selected_class_share": 0.1477906644
+    },
+    {
+      "provider_state": "VA",
+      "total_claims": 2232442.0,
+      "total_30day_fills": 4613751.700000007,
+      "total_drug_cost": 1044614598.2399999,
+      "prescribers": 7492,
+      "selected_class_share": 0.1170065784
+    },
+    {
+      "provider_state": "MO",
+      "total_claims": 2291477.0,
+      "total_30day_fills": 4247379.000000015,
+      "total_drug_cost": 1083689507.0199993,
+      "prescribers": 6091,
+      "selected_class_share": 0.1345833748
+    },
+    {
+      "provider_state": "PR",
+      "total_claims": 2504448.0,
+      "total_30day_fills": 4176454.600000008,
+      "total_drug_cost": 704245937.9400005,
+      "prescribers": 3443,
+      "selected_class_share": 0.0305973157
+    },
+    {
+      "provider_state": "MA",
+      "total_claims": 2099949.0,
+      "total_30day_fills": 4014148.4000000106,
+      "total_drug_cost": 1061605017.4600005,
+      "prescribers": 8391,
+      "selected_class_share": 0.1484957806
+    },
+    {
+      "provider_state": "AZ",
+      "total_claims": 1688652.0,
+      "total_30day_fills": 3679745.8000000124,
+      "total_drug_cost": 825819559.090002,
+      "prescribers": 6349,
+      "selected_class_share": 0.1253411581
+    },
+    {
+      "provider_state": "AL",
+      "total_claims": 1969056.0,
+      "total_30day_fills": 3667424.1000000015,
+      "total_drug_cost": 1088104883.4399998,
+      "prescribers": 4353,
+      "selected_class_share": 0.1678027365
+    },
+    {
+      "provider_state": "WI",
+      "total_claims": 1804783.0,
+      "total_30day_fills": 3633345.8999999943,
+      "total_drug_cost": 817261419.4600012,
+      "prescribers": 5779,
+      "selected_class_share": 0.1197645674
+    }
+  ],
+  "specialty_leaders_2024": [
+    {
+      "provider_specialty": "Family Practice",
+      "total_claims": 32008964.0,
+      "total_30day_fills": 65871250.50000264,
+      "total_drug_cost": 13738715063.639946,
+      "prescribers": 82336,
+      "selected_class_share": 0.1162053831
+    },
+    {
+      "provider_specialty": "Internal Medicine",
+      "total_claims": 28941701.0,
+      "total_30day_fills": 57955689.10000163,
+      "total_drug_cost": 12750514647.540005,
+      "prescribers": 62990,
+      "selected_class_share": 0.1127212721
+    },
+    {
+      "provider_specialty": "Nurse Practitioner",
+      "total_claims": 18998276.0,
+      "total_30day_fills": 35449401.99999911,
+      "total_drug_cost": 9643072364.010015,
+      "prescribers": 86026,
+      "selected_class_share": 0.1503917414
+    },
+    {
+      "provider_specialty": "Endocrinology",
+      "total_claims": 9380707.0,
+      "total_30day_fills": 18903964.299999878,
+      "total_drug_cost": 6689551058.979999,
+      "prescribers": 6076,
+      "selected_class_share": 0.1988333738
+    },
+    {
+      "provider_specialty": "Physician Assistant",
+      "total_claims": 6146351.0,
+      "total_30day_fills": 12041715.49999992,
+      "total_drug_cost": 3254991924.2899866,
+      "prescribers": 26841,
+      "selected_class_share": 0.1516344993
+    },
+    {
+      "provider_specialty": "General Practice",
+      "total_claims": 2387487.0,
+      "total_30day_fills": 4405267.600000011,
+      "total_drug_cost": 694407895.4299998,
+      "prescribers": 4723,
+      "selected_class_share": 0.0553240852
+    },
+    {
+      "provider_specialty": "Cardiology",
+      "total_claims": 1635481.0,
+      "total_30day_fills": 3058785.3000000054,
+      "total_drug_cost": 1431527631.1400023,
+      "prescribers": 13515,
+      "selected_class_share": 0.0660772431
+    },
+    {
+      "provider_specialty": "Nephrology",
+      "total_claims": 1052758.0,
+      "total_30day_fills": 1789311.9999999958,
+      "total_drug_cost": 833926833.3700017,
+      "prescribers": 6784,
+      "selected_class_share": 0.0601343421
+    },
+    {
+      "provider_specialty": "Pharmacist",
+      "total_claims": 496937.0,
+      "total_30day_fills": 1183209.8999999994,
+      "total_drug_cost": 219201383.23999998,
+      "prescribers": 1344,
+      "selected_class_share": 0.1174901427
+    },
+    {
+      "provider_specialty": "Geriatric Medicine",
+      "total_claims": 543790.0,
+      "total_30day_fills": 849934.3000000007,
+      "total_drug_cost": 157571233.39999992,
+      "prescribers": 1402,
+      "selected_class_share": 0.0815232424
+    },
+    {
+      "provider_specialty": "Hospitalist",
+      "total_claims": 398273.0,
+      "total_30day_fills": 623330.2000000002,
+      "total_drug_cost": 136414005.1699999,
+      "prescribers": 2790,
+      "selected_class_share": 0.1017746292
+    },
+    {
+      "provider_specialty": "Emergency Medicine",
+      "total_claims": 338264.0,
+      "total_30day_fills": 551368.0,
+      "total_drug_cost": 119755252.47000003,
+      "prescribers": 1182,
+      "selected_class_share": 0.1171020081
+    },
+    {
+      "provider_specialty": "Interventional Cardiology",
+      "total_claims": 282332.0,
+      "total_30day_fills": 508864.2000000003,
+      "total_drug_cost": 272383646.5300001,
+      "prescribers": 3048,
+      "selected_class_share": 0.0564506208
+    },
+    {
+      "provider_specialty": "Student in an Organized Health Care Education/Training Program",
+      "total_claims": 208957.0,
+      "total_30day_fills": 364068.1000000003,
+      "total_drug_cost": 101212585.00000006,
+      "prescribers": 5970,
+      "selected_class_share": 0.1396477747
+    },
+    {
+      "provider_specialty": "Pediatric Medicine",
+      "total_claims": 148993.0,
+      "total_30day_fills": 297990.9000000001,
+      "total_drug_cost": 69186995.70999998,
+      "prescribers": 732,
+      "selected_class_share": 0.1397438647
+    },
+    {
+      "provider_specialty": "Advanced Heart Failure and Transplant Cardiology",
+      "total_claims": 144613.0,
+      "total_30day_fills": 266494.7000000001,
+      "total_drug_cost": 148912264.55000004,
+      "prescribers": 736,
+      "selected_class_share": 0.0326775729
+    },
+    {
+      "provider_specialty": "Pulmonary Disease",
+      "total_claims": 99664.0,
+      "total_30day_fills": 169731.5,
+      "total_drug_cost": 38605214.61,
+      "prescribers": 658,
+      "selected_class_share": 0.1043783859
+    },
+    {
+      "provider_specialty": "Certified Clinical Nurse Specialist",
+      "total_claims": 89834.0,
+      "total_30day_fills": 165026.3,
+      "total_drug_cost": 60263442.31999997,
+      "prescribers": 297,
+      "selected_class_share": 0.1819322132
+    },
+    {
+      "provider_specialty": "Osteopathic Manipulative Medicine",
+      "total_claims": 82511.0,
+      "total_30day_fills": 157180.5,
+      "total_drug_cost": 35529127.53,
+      "prescribers": 218,
+      "selected_class_share": 0.113866542
+    },
+    {
+      "provider_specialty": "Infectious Disease",
+      "total_claims": 82535.0,
+      "total_30day_fills": 134973.8,
+      "total_drug_cost": 34662337.75,
+      "prescribers": 741,
+      "selected_class_share": 0.1439872034
+    }
+  ],
+  "provider_grain_validation": [],
+  "outlier_review_2024": [
+    {
+      "provider_masked_id": "NPI-******2625",
+      "brand_name": "Glumetza",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 111.0,
+      "cost_per_30day_fill": 4704.974954955,
+      "cost_percentile": 1.0
+    },
+    {
+      "provider_masked_id": "NPI-******3599",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 108.0,
+      "cost_per_30day_fill": 3588.7668518519,
+      "cost_percentile": 0.9999990715
+    },
+    {
+      "provider_masked_id": "NPI-******3402",
+      "brand_name": "Humulin R U-500 Kwikpen",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 156.0,
+      "cost_per_30day_fill": 3402.5196153846,
+      "cost_percentile": 0.999998143
+    },
+    {
+      "provider_masked_id": "NPI-******3772",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 458.0,
+      "cost_per_30day_fill": 2987.0441266376,
+      "cost_percentile": 0.9999972145
+    },
+    {
+      "provider_masked_id": "NPI-******9174",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 63.5,
+      "cost_per_30day_fill": 2936.5981102362,
+      "cost_percentile": 0.999996286
+    },
+    {
+      "provider_masked_id": "NPI-******5170",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 69.0,
+      "cost_per_30day_fill": 2897.2062318841,
+      "cost_percentile": 0.9999953575
+    },
+    {
+      "provider_masked_id": "NPI-******6081",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 56.0,
+      "cost_per_30day_fill": 2884.9283928571,
+      "cost_percentile": 0.999994429
+    },
+    {
+      "provider_masked_id": "NPI-******8893",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 74.9,
+      "cost_per_30day_fill": 2831.1803738318,
+      "cost_percentile": 0.9999935005
+    },
+    {
+      "provider_masked_id": "NPI-******5059",
+      "brand_name": "Humalog Kwikpen U-200",
+      "generic_name": "Insulin Lispro",
+      "total_30day_fills": 83.6,
+      "cost_per_30day_fill": 2792.2490430622,
+      "cost_percentile": 0.999992572
+    },
+    {
+      "provider_masked_id": "NPI-******1630",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 67.0,
+      "cost_per_30day_fill": 2791.5207462687,
+      "cost_percentile": 0.9999916435
+    },
+    {
+      "provider_masked_id": "NPI-******5727",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 57.0,
+      "cost_per_30day_fill": 2734.3263157895,
+      "cost_percentile": 0.999990715
+    },
+    {
+      "provider_masked_id": "NPI-******1778",
+      "brand_name": "Humulin R U-500 Kwikpen",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 87.1,
+      "cost_per_30day_fill": 2723.4037887486,
+      "cost_percentile": 0.9999897865
+    },
+    {
+      "provider_masked_id": "NPI-******9239",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 91.6,
+      "cost_per_30day_fill": 2723.2038209607,
+      "cost_percentile": 0.999988858
+    },
+    {
+      "provider_masked_id": "NPI-******1494",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 66.0,
+      "cost_per_30day_fill": 2718.3856060606,
+      "cost_percentile": 0.9999879295
+    },
+    {
+      "provider_masked_id": "NPI-******2826",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 74.0,
+      "cost_per_30day_fill": 2700.05,
+      "cost_percentile": 0.999987001
+    },
+    {
+      "provider_masked_id": "NPI-******6326",
+      "brand_name": "Humulin R U-500 Kwikpen",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 51.4,
+      "cost_per_30day_fill": 2685.7661478599,
+      "cost_percentile": 0.9999860725
+    },
+    {
+      "provider_masked_id": "NPI-******5669",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 76.0,
+      "cost_per_30day_fill": 2647.0711842105,
+      "cost_percentile": 0.999985144
+    },
+    {
+      "provider_masked_id": "NPI-******0141",
+      "brand_name": "Humulin R U-500 Kwikpen",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 50.1,
+      "cost_per_30day_fill": 2640.4992015968,
+      "cost_percentile": 0.9999842155
+    },
+    {
+      "provider_masked_id": "NPI-******1269",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 160.0,
+      "cost_per_30day_fill": 2610.636625,
+      "cost_percentile": 0.999983287
+    },
+    {
+      "provider_masked_id": "NPI-******7008",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 118.0,
+      "cost_per_30day_fill": 2585.4921186441,
+      "cost_percentile": 0.9999823585
+    },
+    {
+      "provider_masked_id": "NPI-******2309",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 50.1,
+      "cost_per_30day_fill": 2584.0566866267,
+      "cost_percentile": 0.99998143
+    },
+    {
+      "provider_masked_id": "NPI-******2753",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 54.0,
+      "cost_per_30day_fill": 2583.6675925926,
+      "cost_percentile": 0.9999805015
+    },
+    {
+      "provider_masked_id": "NPI-******4378",
+      "brand_name": "Humulin R U-500 Kwikpen",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 50.6,
+      "cost_per_30day_fill": 2571.9865612648,
+      "cost_percentile": 0.999979573
+    },
+    {
+      "provider_masked_id": "NPI-******1604",
+      "brand_name": "Metformin Er Gastric",
+      "generic_name": "Metformin Hcl",
+      "total_30day_fills": 60.0,
+      "cost_per_30day_fill": 2567.4855,
+      "cost_percentile": 0.9999786445
+    },
+    {
+      "provider_masked_id": "NPI-******9885",
+      "brand_name": "Afrezza",
+      "generic_name": "Insulin Regular, Human",
+      "total_30day_fills": 86.3,
+      "cost_per_30day_fill": 2565.2257242178,
+      "cost_percentile": 0.999977716
+    }
+  ]
+}

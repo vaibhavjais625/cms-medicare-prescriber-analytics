@@ -1,0 +1,131 @@
+{
+  "status": "PASS",
+  "years": [
+    {
+      "year": 2022,
+      "source_rows_scanned": 25869521,
+      "raw_candidate_rows": 1944541,
+      "excluded_non_drug_rows": 28970,
+      "processed_rows": 1915571,
+      "independent_total_claims": 83702377,
+      "independent_total_30day_fills": 171623487.8,
+      "independent_total_drug_cost": 35665409118.36,
+      "database_total_claims": 83702377,
+      "database_total_30day_fills": 171623487.80000168,
+      "database_total_drug_cost": 35665409118.359924
+    },
+    {
+      "year": 2023,
+      "source_rows_scanned": 26794878,
+      "raw_candidate_rows": 2116541,
+      "excluded_non_drug_rows": 26872,
+      "processed_rows": 2089669,
+      "independent_total_claims": 92799490,
+      "independent_total_30day_fills": 187002433.4,
+      "independent_total_drug_cost": 48150586219.14,
+      "database_total_claims": 92799490,
+      "database_total_30day_fills": 187002433.40000877,
+      "database_total_drug_cost": 48150586219.13992
+    },
+    {
+      "year": 2024,
+      "source_rows_scanned": 28023892,
+      "raw_candidate_rows": 2254990,
+      "excluded_non_drug_rows": 23743,
+      "processed_rows": 2231247,
+      "independent_total_claims": 104160253,
+      "independent_total_30day_fills": 205841944.7,
+      "independent_total_drug_cost": 50712600298.579994,
+      "database_total_claims": 104160253,
+      "database_total_30day_fills": 205841944.7000111,
+      "database_total_drug_cost": 50712600298.580246
+    }
+  ],
+  "checks": [
+    {
+      "year": 2022,
+      "check": "independent_rows",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "check": "independent_total_claims",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "check": "independent_total_30day_fills",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "check": "independent_total_drug_cost",
+      "passed": true
+    },
+    {
+      "year": 2022,
+      "check": "raw_candidate_to_processed",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "check": "independent_rows",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "check": "independent_total_claims",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "check": "independent_total_30day_fills",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "check": "independent_total_drug_cost",
+      "passed": true
+    },
+    {
+      "year": 2023,
+      "check": "raw_candidate_to_processed",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "check": "independent_rows",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "check": "independent_total_claims",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "check": "independent_total_30day_fills",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "check": "independent_total_drug_cost",
+      "passed": true
+    },
+    {
+      "year": 2024,
+      "check": "raw_candidate_to_processed",
+      "passed": true
+    },
+    {
+      "year": null,
+      "check": "all_named_sql_queries_executed",
+      "passed": true
+    },
+    {
+      "year": null,
+      "check": "provider_grain_query_zero_rows",
+      "passed": true
+    }
+  ]
+}

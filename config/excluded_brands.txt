@@ -1,0 +1,6 @@
+# Weight-management brands are excluded from the T2D commercial market scope.
+# Comparisons are case-insensitive after trimming punctuation and spaces.
+Wegovy
+Saxenda
+Zepbound
+

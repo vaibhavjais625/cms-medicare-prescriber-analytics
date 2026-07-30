@@ -1,0 +1,32 @@
+match_term,component_class,priority,notes
+tirzepatide,GLP-1 receptor agonists,10,Dual GIP/GLP-1 product grouped with incretin therapies
+semaglutide,GLP-1 receptor agonists,10,Includes oral and injectable diabetes brands after exclusion rules
+dulaglutide,GLP-1 receptor agonists,10,
+liraglutide,GLP-1 receptor agonists,10,Diabetes brands only after exclusion rules
+exenatide,GLP-1 receptor agonists,10,
+lixisenatide,GLP-1 receptor agonists,10,
+canagliflozin,SGLT2 inhibitors,20,
+dapagliflozin,SGLT2 inhibitors,20,
+empagliflozin,SGLT2 inhibitors,20,
+ertugliflozin,SGLT2 inhibitors,20,
+bexagliflozin,SGLT2 inhibitors,20,
+sitagliptin,DPP-4 inhibitors,30,
+linagliptin,DPP-4 inhibitors,30,
+saxagliptin,DPP-4 inhibitors,30,
+alogliptin,DPP-4 inhibitors,30,
+insulin,Insulin,40,Includes products used across diabetes types; not a T2D patient identifier
+metformin,Biguanides,50,
+glimepiride,Sulfonylureas,60,
+glipizide,Sulfonylureas,60,
+glyburide,Sulfonylureas,60,
+chlorpropamide,Sulfonylureas,60,
+tolazamide,Sulfonylureas,60,
+tolbutamide,Sulfonylureas,60,
+pioglitazone,Thiazolidinediones,70,
+rosiglitazone,Thiazolidinediones,70,
+repaglinide,Other diabetes therapies,80,Meglitinide
+nateglinide,Other diabetes therapies,80,Meglitinide
+acarbose,Other diabetes therapies,80,Alpha-glucosidase inhibitor
+miglitol,Other diabetes therapies,80,Alpha-glucosidase inhibitor
+pramlintide,Other diabetes therapies,80,Amylin analog
+

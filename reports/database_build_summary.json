@@ -1,0 +1,14 @@
+{
+  "database": "C:\\Users\\BIT\\Documents\\Data_analyst_project1\\cms-medicare-prescriber-analytics\\database\\rxmarketiq.duckdb",
+  "fact_row_count": 6236487,
+  "named_queries_executed": 7,
+  "query_names": [
+    "market_size_and_growth",
+    "class_leaders",
+    "product_leaders_2024",
+    "state_leaders_2024",
+    "specialty_leaders_2024",
+    "provider_grain_validation",
+    "outlier_review_2024"
+  ]
+}

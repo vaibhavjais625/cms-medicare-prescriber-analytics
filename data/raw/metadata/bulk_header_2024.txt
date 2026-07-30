@@ -1,0 +1,28 @@
+Prscrbr_NPI,Prscrbr_Last_Org_Name,Prscrbr_First_Name,Prscrbr_City,Prscrbr_State_Abrvtn,Prscrbr_State_FIPS,Prscrbr_Type,Prscrbr_Type_Src,Brnd_Name,Gnrc_Name,Tot_Clms,Tot_30day_Fills,Tot_Day_Suply,Tot_Drug_Cst,Tot_Benes,GE65_Sprsn_Flag,GE65_Tot_Clms,GE65_Tot_30day_Fills,GE65_Tot_Drug_Cst,GE65_Tot_Day_Suply,GE65_Bene_Sprsn_Flag,GE65_Tot_Benes
+1003000126,Enkeshafi,Ardalan,Bethesda,MD,24,Internal Medicine,Claim-Specialty,Abrysvo,"Rsv Vacc, Pref A And Pref B/Pf",20,20,20,5994.01,20,,20,20,5994.01,20,,20
+1003000126,Enkeshafi,Ardalan,Bethesda,MD,24,Internal Medicine,Claim-Specialty,Boostrix Tdap,"Diphth,pertuss(Acell),tet Vac",12,12,12,648.26,12,,12,12,648.26,12,,12
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Acetaminophen-Codeine,Acetaminophen With Codeine,24,24,628,362.48,11,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Amitriptyline Hcl,Amitriptyline Hcl,47,47,1410,271.17,16,,30,30,150.18,900,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Baclofen,Baclofen,47,47,1395,333.35,26,,33,33,222.14,975,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Belbuca,Buprenorphine Hcl,12,12,321,4388.84,,*,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Celecoxib,Celecoxib,18,22,660,132.21,,*,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,45,47,1410,399.69,26,,14,14,122.36,420,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Dantrolene Sodium,Dantrolene Sodium,23,23,496,587.02,15,#,,,,,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Diclofenac Sodium,Diclofenac Sodium,47,51.7,1091,1236.33,28,,32,32,869.57,689,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Duloxetine Hcl,Duloxetine Hcl,26,28,840,188.16,14,,15,17,124.63,510,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Gabapentin,Gabapentin,293,386,11516,4512.22,144,,200,253,3152.83,7540,,92
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,340,340,9273,6027.31,164,,228,228,3766.39,6012,,116
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Lidocaine,Lidocaine,30,32,957,2934.97,18,#,,,,,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Meloxicam,Meloxicam,41,55,1650,86.73,24,,15,25,33.43,750,,13
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Methocarbamol,Methocarbamol,21,23,670,256.34,13,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Methylprednisolone,Methylprednisolone,20,20,120,127.08,20,#,,,,,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Morphine Sulfate Er,Morphine Sulfate,47,47,1394,678.42,,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Movantik,Naloxegol Oxalate,45,47,1406,18910.97,22,,25,27,10801.69,810,,11
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Nortriptyline Hcl,Nortriptyline Hcl,17,19,550,110.96,,*,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Oxycodone Hcl,Oxycodone Hcl,61,61,1665,696.96,33,,50,50,604.08,1365,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,267,267,7623,5344.44,113,,156,156,2863.78,4466,,67
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Pregabalin,Pregabalin,111,127,3806,3540.32,50,,52,58,1182.11,1740,,24
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Tizanidine Hcl,Tizanidine Hcl,142,160,4613,1082.66,77,,84,94,597.75,2679,,47
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Tramadol Hcl,Tramadol Hcl,101,101,2706,530.12,41,,73,73,396.49,1866,,30
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Trazodone Hcl,Trazodone Hcl,13,13,390,47.78,,*,,,,,*,
+1003000167,Escobar,Julio,Dayton,NV,32,Dentist,NPPES-Specialty,Amoxicillin,Amoxicillin,47,47,268
