@@ -2,6 +2,8 @@
 
 **Real-World Medicare Part D Prescriber and Pharmaceutical Market Analytics**
 
+**Live dashboard:** [rxmarketiq-medicare-analytics.netlify.app](https://rxmarketiq-medicare-analytics.netlify.app/)
+
 RxMarketIQ answers one commercial analytics question: **Which therapeutic markets, geographic areas, and prescriber segments represent the most meaningful observable pharmaceutical market opportunities based on real Medicare Part D utilization and drug-cost data?**
 
 The project uses exact CMS provider–drug records for 2022–2024, reproducibly filtered to a documented diabetes ingredient map. It is descriptive market analytics—not medical guidance, a quality assessment, causal evidence, or a patient-level analysis.
