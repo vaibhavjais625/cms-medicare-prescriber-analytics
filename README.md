@@ -48,6 +48,16 @@ pnpm run dev
 
 Open the local URL printed by the dashboard process. The executed repository already includes the processed data, database, and dashboard payload used for the findings above.
 
+### Deploy on Netlify from GitHub
+
+The repository includes `netlify.toml` and a dedicated static build target. In Netlify, choose **Add new project → Import an existing project → GitHub**, select this repository, and deploy. Netlify reads the settings automatically:
+
+- Build command: `pnpm run build:netlify`
+- Publish directory: `dist/netlify`
+- Node.js: 22
+
+To verify the exact production artifact locally, run `pnpm run build:netlify` and serve `dist/netlify/` with any static file server.
+
 ## Analytical methods
 
 The project applies chunked profiling, schema standardization, duplicate/grain checks, missingness and suppression analysis, typed conversion, weighted aggregation, year-over-year growth, class/product share, claims, 30-day standardized fills, drug cost, average cost per claim/fill, geography and specialty segmentation, marketed-name heuristics, Pareto shares, HHI, Lorenz/Gini, deciles, outlier review, opportunity scoring, and weight sensitivity.
