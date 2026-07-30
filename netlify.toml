@@ -5,6 +5,7 @@
 [build.environment]
   NODE_VERSION = "22"
   PNPM_VERSION = "10.15.1"
+  NETLIFY_NEXT_PLUGIN_SKIP = "true"
 
 [[headers]]
   for = "/dashboard_data.json"

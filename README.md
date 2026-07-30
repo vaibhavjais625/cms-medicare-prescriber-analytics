@@ -56,6 +56,8 @@ The repository includes `netlify.toml` and a dedicated static build target. In N
 - Publish directory: `dist/netlify`
 - Node.js: 22
 
+`runtime.txt` pins Python 3.12 because Netlify automatically installs a root `requirements.txt` during dependency setup, even though the static dashboard build itself only invokes Node.js. The unnecessary Next.js runtime adapter is disabled because this deploy target is a plain Vite artifact.
+
 To verify the exact production artifact locally, run `pnpm run build:netlify` and serve `dist/netlify/` with any static file server.
 
 ## Analytical methods
